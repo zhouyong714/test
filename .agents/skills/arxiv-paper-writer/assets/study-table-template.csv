@@ -1,0 +1,3 @@
+Row_ID,PMID_DOI,Citation_Key,Title,Authors,Year,Venue,Task,Dataset,Split,Model_Family,Primary_Metric,Metric_Value,Secondary_Metrics,Reproducibility_Score,Code_Available,Data_Available,Weights_Available,Limitations_Noted,Pharma_Implication,Evidence_Level,DMTA_Stage,Closed_Loop_Verified,Persona_Relevance,R&D_Stage,Notes
+E001,10.1234/example.2024.001,Smith2024,Example GNN for ADMET,Smith et al.,2024,J Med Chem,ADMET,MoleculeNet,scaffold,GNN,AUROC,0.85,RMSE=0.42,3,Y,Y,N,"Limited to single endpoint; no external validation",Useful for early ADMET filtering in hit-to-lead,L1,Analyze,N,DMPK;DataScience,ADMET_DMPK,Example row
+E002,,,,,,,,,,,,,,,,,,,,,,,,

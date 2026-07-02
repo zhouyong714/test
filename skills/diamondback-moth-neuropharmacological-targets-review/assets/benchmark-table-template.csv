@@ -1,0 +1,9 @@
+Benchmark_ID,Name,Task,Task_Category,Data_Size,Molecule_Count,Split_Type,Recommended_Split,Leakage_Risk,Primary_Metrics,Secondary_Metrics,Source_URL,Paper_DOI,Maintainer,Last_Updated,Data_Accessible,License,Notes
+B001,TDC_ADMET_Group,ADMET,ADMET_Prediction,22 datasets,varies,scaffold,scaffold,LOW,AUROC;AUPRC,MAE;RMSE,https://tdcommons.ai,10.1038/s41592-022-01419-2,Harvard,2024,Y,MIT,Comprehensive ADMET benchmark collection
+B002,MoleculeNet,Multi-task,Property_Prediction,17 datasets,varies,random;scaffold,scaffold,MEDIUM,AUROC;MAE,R2;RMSE,https://moleculenet.org,10.1039/C7SC02664A,Stanford,2017,Y,MIT,Classic molecular ML benchmark
+B003,GuacaMol,Generative_MPO,Generative_Design,3 benchmarks,varies,goal-directed,N/A,LOW,Validity;Novelty;Uniqueness,FCD;IntDiv,https://github.com/BenevolentAI/guacamol,10.1021/acs.jcim.8b00839,BenevolentAI,2019,Y,MIT,Goal-directed generation benchmark
+B004,MOSES,Generative,Generative_Design,1 dataset,1.5M,random,random,LOW,Validity;Uniqueness;Novelty,FCD;IntDiv;SNN,https://github.com/molecularsets/moses,10.3389/fphar.2020.565644,Skoltech,2020,Y,MIT,Distribution learning benchmark
+B005,DUD-E,Docking,Virtual_Screening,102 targets,22K actives,target-based,target-based,MEDIUM,AUROC;EF1%,BEDROC;RE,http://dude.docking.org,10.1021/jm300687e,UCSF,2012,Y,Academic,Decoy-based VS benchmark
+B006,PDBbind,Binding_Affinity,Binding_Prediction,19K complexes,19K,time-split,time-split,LOW,RMSE;R,MAE;Rho,http://pdbbind.org.cn,10.1021/acs.accounts.6b00491,Shanghai,2024,Y,Academic,Protein-ligand binding benchmark
+B007,Tox21,Toxicity,Toxicity_Prediction,12 assays,8K,random,scaffold,MEDIUM,AUROC;AUPRC,Balanced_Accuracy,https://tripod.nih.gov/tox21,10.3389/fenvs.2015.00085,NIH,2014,Y,Public,High-throughput toxicity screening
+B008,USPTO-50K,Retrosynthesis,Reaction_Prediction,50K reactions,50K,random,random,LOW,Top-1_Accuracy,Top-5_Accuracy,N/A,10.1021/acs.jcim.7b00622,MIT,2017,Y,Public,Standard retrosynthesis benchmark

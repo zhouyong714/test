@@ -1,0 +1,3863 @@
+[
+  {
+    "code": "A08",
+    "orig_authors": "Sattelle DB, Yamamoto D",
+    "orig_title": "Molecular targets of pyrethroid, nereistoxin and cyclodiene insecticides",
+    "candidates": [
+      {
+        "year": 1988,
+        "authors": [
+          "David B. Sattelle",
+          "Daisuke Yamamoto"
+        ],
+        "title": "Molecular Targets of Pyrethroid Insecticides",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/s0065-2806(08)60025-9",
+        "type": "book-chapter",
+        "score": 53.874325
+      },
+      {
+        "year": 1986,
+        "authors": [
+          "D.B. Sattelle"
+        ],
+        "title": "The pyrethroid insecticides",
+        "journal": "Journal of Insect Physiology",
+        "doi": "10.1016/0022-1910(86)90149-6",
+        "type": "journal-article",
+        "score": 38.508545
+      },
+      {
+        "year": 2005,
+        "authors": [
+          "Valérie Raymond-Delpech",
+          "Kazuhiko Matsuda",
+          "Benedict M. Sattelle",
+          "James J. Rauh",
+          "David B. Sattelle"
+        ],
+        "title": "Ion channels: molecular targets of neuroactive insecticides",
+        "journal": "Invertebrate Neuroscience",
+        "doi": "10.1007/s10158-005-0004-9",
+        "type": "journal-article",
+        "score": 36.945316
+      },
+      {
+        "year": 1991,
+        "authors": [
+          "Nicola M. Anthony",
+          "Eric A. Benner",
+          "James J. Rauh",
+          "David B. Sattelle"
+        ],
+        "title": "GABA receptors of insects susceptible and resistant to cyclodiene insecticides",
+        "journal": "Pesticide Science",
+        "doi": "10.1002/ps.2780330211",
+        "type": "journal-article",
+        "score": 34.2502
+      },
+      {
+        "year": 1985,
+        "authors": [
+          "Jerome Laufer",
+          "Marcel Pelhate",
+          "David B. Sattelle"
+        ],
+        "title": "Actions of pyrethroid insecticides on insect axonal sodium channels",
+        "journal": "Pesticide Science",
+        "doi": "10.1002/ps.2780160611",
+        "type": "journal-article",
+        "score": 33.366997
+      }
+    ]
+  },
+  {
+    "code": "A17",
+    "orig_authors": "Silver KS, Du Y, Nomura Y, Oliveira EE, Salgado VL, Zhorov BS, Dong K",
+    "orig_title": "Voltage-gated sodium channels as insecticide targets",
+    "candidates": [
+      {
+        "year": 2014,
+        "authors": [
+          "Kristopher S. Silver",
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Eugenio E. Oliveira",
+          "Vincent L. Salgado",
+          "Boris S. Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Voltage-Gated Sodium Channels as Insecticide Targets",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/b978-0-12-417010-0.00005-7",
+        "type": "book-chapter",
+        "score": 83.68969
+      },
+      {
+        "year": 2002,
+        "authors": [
+          "Ke Dong"
+        ],
+        "title": "Voltage‐Gated Sodium Channels as Insecticide Targets",
+        "journal": "Chemistry of Crop Protection",
+        "doi": "10.1002/3527602038.ch14",
+        "type": "other",
+        "score": 54.690178
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Boris S. Zhorov"
+        ],
+        "title": "Structural Models of Ligand-Bound Sodium Channels",
+        "journal": "Handbook of Experimental Pharmacology",
+        "doi": "10.1007/164_2017_44",
+        "type": "book-chapter",
+        "score": 47.64453
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Ke Dong",
+          "Yuzhe Du",
+          "Frank Rinkevich",
+          "Yoshiko Nomura",
+          "Peng Xu",
+          "Lingxin Wang",
+          "Kristopher Silver",
+          "Boris S. Zhorov"
+        ],
+        "title": "Molecular biology of insect sodium channels and pyrethroid resistance",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2014.03.012",
+        "type": "journal-article",
+        "score": 46.574997
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Boris S. Zhorov"
+        ],
+        "title": "Computational Study of Ion Selectivity in Eukaryotic Voltage-Gated Sodium Channels",
+        "journal": "Biophysical Journal",
+        "doi": "10.1016/j.bpj.2020.11.1117",
+        "type": "journal-article",
+        "score": 45.658875
+      }
+    ]
+  },
+  {
+    "code": "B09",
+    "orig_authors": "Sayyed AH, Wright DJ",
+    "orig_title": "Genetics and evidence for field-evolved resistance to insecticides in diamondback moth",
+    "candidates": [
+      {
+        "year": 2006,
+        "authors": [
+          "Ali H Sayyed",
+          "Denis J Wright"
+        ],
+        "title": "Genetics and evidence for an esterase‐associated mechanism of resistance to indoxacarb in a field population of diamondback moth (Lepidoptera: Plutellidae)",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.1270",
+        "type": "journal-article",
+        "score": 52.756706
+      },
+      {
+        "year": 2004,
+        "authors": [
+          "Ali H. Sayyed",
+          "Ben Raymond",
+          "M. Sales Ibiza-Palacios",
+          "Baltasar Escriche",
+          "Denis J. Wright"
+        ],
+        "title": "Genetic and Biochemical Characterization of Field-Evolved Resistance to Bacillus thuringiensis Toxin Cry1Ac in the Diamondback Moth, Plutella xylostella",
+        "journal": "Applied and Environmental Microbiology",
+        "doi": "10.1128/aem.70.12.7010-7017.2004",
+        "type": "journal-article",
+        "score": 45.89354
+      },
+      {
+        "year": null,
+        "authors": [
+          "Fereti Arone Atumurirava"
+        ],
+        "title": "Diamondback moth resistance to commonly used insecticides and its management in Fiji",
+        "journal": "",
+        "doi": "10.14264/uql.2015.769",
+        "type": "dissertation",
+        "score": 44.70903
+      },
+      {
+        "year": 2008,
+        "authors": [
+          "Ali H Sayyed",
+          "Graham Moores",
+          "Neil Crickmore",
+          "Denis J Wright"
+        ],
+        "title": "Cross‐resistance between a Bacillus thuringiensis Cry toxin and non‐ Bt insecticides in the diamondback moth",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.1570",
+        "type": "journal-article",
+        "score": 44.641098
+      },
+      {
+        "year": 2008,
+        "authors": [
+          "Munir Ahmad",
+          "Ali H. Sayyed",
+          "Mushtaq A. Saleem",
+          "Mushtaq Ahmad"
+        ],
+        "title": "Evidence for field evolved resistance to newer insecticides in Spodoptera litura (Lepidoptera: Noctuidae) from Pakistan",
+        "journal": "Crop Protection",
+        "doi": "10.1016/j.cropro.2008.05.003",
+        "type": "journal-article",
+        "score": 42.65796
+      }
+    ]
+  },
+  {
+    "code": "B13",
+    "orig_authors": "Xie M, Zhang S, Zhao B, et al",
+    "orig_title": "Genome/transcriptome resources for insecticide-resistant *Plutella xylostella*",
+    "candidates": [
+      {
+        "year": null,
+        "authors": [],
+        "title": "Toxicity of Some Insecticides and Insecticide Combinations of Plutella xylostella (Linn.)",
+        "journal": "",
+        "doi": "10.59852/tpe-a241v7i2",
+        "type": "journal",
+        "score": 47.323833
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Potentiation of Paired Insecticide Combinations on Plutella xylostella (Linn.) and other Cabbage Insects",
+        "journal": "",
+        "doi": "10.59852/tpe-a98v3i4",
+        "type": "journal",
+        "score": 45.028923
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Potentiation of Paired Insecticide Combinations on Plutella xylostella (Linn.) and other Cabbage Insects",
+        "journal": "",
+        "doi": "10.59852/tpe-a98v3i3",
+        "type": "journal",
+        "score": 45.00784
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Weiyi He",
+          "Minsheng You",
+          "Liette Vasseur",
+          "Guang Yang",
+          "Miao Xie",
+          "Kai Cui",
+          "Jianlin Bai",
+          "Chunhui Liu"
+        ],
+        "title": "Developmental and insecticide-resistant insights from the de novo assembled transcriptome of the diamondback moth, Plutella xylostella",
+        "journal": "Genomics",
+        "doi": "10.1016/j.ygeno.2011.12.009",
+        "type": "journal-article",
+        "score": 43.01342
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Kayvan Etebari",
+          "Michael J. Furlong",
+          "Sassan Asgari"
+        ],
+        "title": "Genome wide discovery of long intergenic non-coding RNAs in Diamondback moth (Plutella xylostella) and their expression in insecticide resistant strains",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep14642",
+        "type": "journal-article",
+        "score": 42.05354
+      }
+    ]
+  },
+  {
+    "code": "B14",
+    "orig_authors": "Tang W, Yu L, He W, Yang G, et al",
+    "orig_title": "DBM transcriptome and detoxification-gene annotation under insecticide pressure",
+    "candidates": [
+      {
+        "year": 2025,
+        "authors": [
+          "Qinghong Zeng",
+          "Tianqing Gao",
+          "Hu Guo",
+          "Dongjian He",
+          "Dan Sun",
+          "Chang Yu",
+          "Fangge Shang",
+          "Gang Wu"
+        ],
+        "title": "Inhibition of Detoxification Enzyme Gene Expression by Mon@Pda Nano-Adjuvant to Overcome Insecticide Resistance",
+        "journal": "",
+        "doi": "10.2139/ssrn.5213677",
+        "type": "posted-content",
+        "score": 33.033215
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Supplemental Information 1: Annotation of identified five detoxification gene families.",
+        "journal": "",
+        "doi": "10.7717/peerj.12069/supp-1",
+        "type": "component",
+        "score": 32.327118
+      },
+      {
+        "year": 2022,
+        "authors": [
+          "Wenhong Li",
+          "Xinyi Wang",
+          "Po Jiang",
+          "Mingwei Yang",
+          "Zhimo Li",
+          "Chunyang Huang",
+          "Yueping He"
+        ],
+        "title": "A full-length transcriptome and gene expression analysis of three detoxification gene families in a predatory stink bug, Picromerus lewisi",
+        "journal": "Frontiers in Physiology",
+        "doi": "10.3389/fphys.2022.1016582",
+        "type": "journal-article",
+        "score": 30.642687
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Table 2: Summary of the transcriptome annotation compared with the reference genome of C. Sinensis (Xu et al., 2013).",
+        "journal": "",
+        "doi": "10.7717/peerj.3343/table-2",
+        "type": "component",
+        "score": 30.413786
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Qinghong Zeng",
+          "Tianqing Gao",
+          "Hu Guo",
+          "Dongjian He",
+          "Dan Sun",
+          "Chang Yu",
+          "Fangge Shang",
+          "Gang Wu"
+        ],
+        "title": "Inhibition of detoxification enzyme gene expression by MON@PDA nano-adjuvant to overcome insecticide resistance",
+        "journal": "Chemical Engineering Journal",
+        "doi": "10.1016/j.cej.2025.166425",
+        "type": "journal-article",
+        "score": 30.096684
+      }
+    ]
+  },
+  {
+    "code": "B17",
+    "orig_authors": "Guo L, Desneux N, Sonoda S, et al",
+    "orig_title": "Field resistance of diamondback moth to chlorantraniliprole and related compounds",
+    "candidates": [
+      {
+        "year": 2013,
+        "authors": [
+          "Lei Guo",
+          "Nicolas Desneux",
+          "Shoji Sonoda",
+          "Pei Liang",
+          "Peng Han",
+          "Xi-Wu Gao"
+        ],
+        "title": "Sublethal and transgenerational effects of chlorantraniliprole on biological traits of the diamondback moth, Plutella xylostella L.",
+        "journal": "Crop Protection",
+        "doi": "10.1016/j.cropro.2013.02.009",
+        "type": "journal-article",
+        "score": 55.28804
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Wei Gong",
+          "Hui-Hui Yan",
+          "Li Gao",
+          "Yun-Yun Guo",
+          "Chao-Bin Xue"
+        ],
+        "title": "Chlorantraniliprole Resistance in the Diamondback Moth (Lepidoptera: Plutellidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/ec13456",
+        "type": "journal-article",
+        "score": 41.28424
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Xiuxia Li",
+          "Ying Liu",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Global identification of microRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep40713",
+        "type": "journal-article",
+        "score": 38.191795
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Xingliang Wang",
+          "Shem K Khakame",
+          "Chao Ye",
+          "Yihua Yang",
+          "Yidong Wu"
+        ],
+        "title": "Characterisation of field‐evolved resistance to chlorantraniliprole in the diamondback moth, Plutella xylostella , from China",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.3422",
+        "type": "journal-article",
+        "score": 37.581528
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Manyu Xu",
+          "Haiyan Shi",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Genome-wide identification of lncRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "BMC Genomics",
+        "doi": "10.1186/s12864-017-3748-9",
+        "type": "journal-article",
+        "score": 36.61336
+      }
+    ]
+  },
+  {
+    "code": "B20",
+    "orig_authors": "",
+    "orig_title": "Comprehensive assessment of multiple insecticide resistance mutations and their geographic distribution in *Plutella xylostella*",
+    "candidates": [
+      {
+        "year": null,
+        "authors": [],
+        "title": "Toxicity of Some Insecticides and Insecticide Combinations of Plutella xylostella (Linn.)",
+        "journal": "",
+        "doi": "10.59852/tpe-a241v7i2",
+        "type": "journal",
+        "score": 47.325302
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Overexpression of the ABCG Gene Cluster Contributed to Multi-Insecticide Resistance in Plutella xylostella (L.)",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.5c15594.s002",
+        "type": "component",
+        "score": 47.12111
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Overexpression of the ABCG Gene Cluster Contributed to Multi-Insecticide Resistance in Plutella xylostella (L.)",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.5c15594.s001",
+        "type": "component",
+        "score": 46.92462
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Overexpression of the ABCG Gene Cluster Contributed to Multi-Insecticide Resistance in Plutella xylostella (L.)",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.5c15594.s003",
+        "type": "component",
+        "score": 46.691883
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Mutations in Promoter Region Enhanced PxE27-Mediated Cypermethrin Resistance in Plutella xylostella",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.6c02332.s001",
+        "type": "component",
+        "score": 46.58172
+      }
+    ]
+  },
+  {
+    "code": "C04",
+    "orig_authors": "Shao Y, Dong K, Zhang J, et al",
+    "orig_title": "A point mutation in a *Plutella xylostella* nicotinic acetylcholine receptor alpha6 subunit is associated with resistance to spinosad",
+    "candidates": [
+      {
+        "year": 2010,
+        "authors": [
+          "Frank D. Rinkevich",
+          "Mao Chen",
+          "Anthony M. Shelton",
+          "Jeffrey G. Scott"
+        ],
+        "title": "Transcripts of the nicotinic acetylcholine receptor subunit gene Pxylα6 with premature stop codons are associated with spinosad resistance in diamondback moth, Plutella xylostella",
+        "journal": "Invertebrate Neuroscience",
+        "doi": "10.1007/s10158-010-0102-1",
+        "type": "journal-article",
+        "score": 63.82419
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Mei-Er Chen"
+        ],
+        "title": "Mutation and transcriptional expression of nicotinic acetylcholine receptor subunit α6 associated with spinosad resistance in Rhyzopertha dominica",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.111290",
+        "type": "proceedings-article",
+        "score": 62.52888
+      },
+      {
+        "year": 2024,
+        "authors": [
+          "Xingkai Guo",
+          "Lisheng Zhang",
+          "Mengqing Wang",
+          "Yuyan Li",
+          "Zhongjian Shen",
+          "Tony Nolan",
+          "Jianjun Mao"
+        ],
+        "title": "CRISPR/Cas9-mediated mutation of nicotinic acetylcholine receptor (nAChR) α subunit confers moderate levels of resistance to spinosad and imidacloprid in the natural predator Coccinella septempunctata without fitness cost",
+        "journal": "Entomologia Generalis",
+        "doi": "10.1127/entomologia/2024/2464",
+        "type": "journal-article",
+        "score": 58.36538
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Mirel Puinean"
+        ],
+        "title": "Allosteric modulation of tick nicotinic acetylcholine receptor alpha 5 and alpha6 by spinosad",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.91232",
+        "type": "proceedings-article",
+        "score": 58.264553
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Jing Wang",
+          "Xingliang Wang",
+          "Stuart J. Lansdell",
+          "Jianheng Zhang",
+          "Neil S. Millar",
+          "Yidong Wu"
+        ],
+        "title": "A three amino acid deletion in the transmembrane domain of the nicotinic acetylcholine receptor α6 subunit confers high-level resistance to spinosad in Plutella xylostella",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2016.02.001",
+        "type": "journal-article",
+        "score": 57.733135
+      }
+    ]
+  },
+  {
+    "code": "C07",
+    "orig_authors": "Sayyed AH, Saeed S, Noor-Ul-Ane M, Crickmore N",
+    "orig_title": "Genetics, realized heritability and possible mechanism of resistance to spinosad in diamondback moth",
+    "candidates": [
+      {
+        "year": 2008,
+        "authors": [
+          "Ali H. Sayyed",
+          "Shafqat Saeed",
+          "M. Noor-ul-ane",
+          "Neil Crickmore"
+        ],
+        "title": "Genetic, Biochemical, and Physiological Characterization of Spinosad Resistance in Plutella xylostella (Lepidoptera: Plutellidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/101.5.1658",
+        "type": "journal-article",
+        "score": 73.327576
+      },
+      {
+        "year": 2008,
+        "authors": [
+          "Ali H. Sayyed",
+          "Shafqat Saeed",
+          "M. Noor-ul-ane",
+          "Neil Crickmore"
+        ],
+        "title": "Genetic, Biochemical, and Physiological Characterization of Spinosad Resistance in <I>Plutella xylostella</I> (Lepidoptera: Plutellidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493(2008)101[1658:gbapco]2.0.co;2",
+        "type": "journal-article",
+        "score": 68.45997
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Ali H. Sayyed",
+          "Neil Crickmore"
+        ],
+        "title": "Selection of a Field Population of Diamondback Moth (Lepidoptera: Plutellidae) with Acetamiprid Maintains, but Does Not Increase, Cross-Resistance to Pyrethroids",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493(2007)100[932:soafpo]2.0.co;2",
+        "type": "journal-article",
+        "score": 45.379925
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Ali H. Sayyed",
+          "Neil Crickmore"
+        ],
+        "title": "Selection of a Field Population of Diamondback Moth (Lepidoptera: Plutellidae) with Acetamiprid Maintains, but Does Not Increase, Cross-Resistance to Pyrethroids",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/100.3.932",
+        "type": "journal-article",
+        "score": 45.08821
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Muhammad Babar Shahzad Afzal",
+          "Sarfraz Ali Shad",
+          "Naeem Abbas"
+        ],
+        "title": "Genetics, realized heritability and preliminary mechanism of spinosad resistance in Phenacoccus solenopsis Tinsley (Homoptera: Pseudococcidae): an invasive pest from Pakistan",
+        "journal": "Genetica",
+        "doi": "10.1007/s10709-015-9871-0",
+        "type": "journal-article",
+        "score": 44.320057
+      }
+    ]
+  },
+  {
+    "code": "C08",
+    "orig_authors": "Bao WX, Narai Y, Nakano A, Kaneda T, Murai T, Sonoda S",
+    "orig_title": "Spinosad resistance in diamondback moth: inheritance, fitness cost and cross-resistance",
+    "candidates": [
+      {
+        "year": 2014,
+        "authors": [
+          "Wen Xue Bao",
+          "Yutaka Narai",
+          "Akio Nakano",
+          "Takemichi Kaneda",
+          "Tamotsu Murai",
+          "Shoji Sonoda"
+        ],
+        "title": "Spinosad resistance of melon thrips, Thrips palmi, is conferred by G275E mutation in α6 subunit of nicotinic acetylcholine receptor and cytochrome P450 detoxification",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2014.04.013",
+        "type": "journal-article",
+        "score": 65.34613
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Stability, Inheritance Cross-Resistance, and Fitness Cost of Resistance to Cyhalothrin in Cydia pomonella",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.4c07166.s001",
+        "type": "component",
+        "score": 53.606503
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Z.M. Li",
+          "S.S. Liu",
+          "Y.Q. Liu",
+          "G.Y. Ye"
+        ],
+        "title": "Temperature-related fitness costs of resistance to spinosad in the diamondback moth, Plutella xylostella (Lepidoptera: Plutelidae)",
+        "journal": "Bulletin of Entomological Research",
+        "doi": "10.1017/s0007485307005366",
+        "type": "journal-article",
+        "score": 45.80703
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Ran Wang",
+          "Cheng Qu",
+          "Zhenyu Wang",
+          "Guangfu Yang"
+        ],
+        "title": "Cross-resistance, biochemical mechanism and fitness costs of laboratory-selected resistance to pyridalyl in diamondback moth, Plutella xylostella",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2019.10.008",
+        "type": "journal-article",
+        "score": 44.48149
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "R. M. Marak",
+          "D. M. Firake",
+          "P. P. Sontakke",
+          "G. T. Behere"
+        ],
+        "title": "Mode of inheritance of Indoxacarb resistance in diamondback moth, Plutella xylostella (L.) and cross resistance to different groups of pesticides",
+        "journal": "Phytoparasitica",
+        "doi": "10.1007/s12600-017-0618-6",
+        "type": "journal-article",
+        "score": 43.65572
+      }
+    ]
+  },
+  {
+    "code": "C10",
+    "orig_authors": "Zhao JZ, Collins HL, Li YX, Mau RFL, Thompson GD, Hertlein M, Andaloro JT, Boykin R, Shelton AM",
+    "orig_title": "Monitoring and inheritance of spinosad resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2006,
+        "authors": [
+          "J.-Z. Zhao",
+          "H. L. Collins",
+          "Y.-X. Li",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "M. Hertlein",
+          "J. T. Andaloro",
+          "R. Boykin"
+        ],
+        "title": "Monitoring of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad, Indoxacarb, and Emamectin Benzoate",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/99.1.176",
+        "type": "journal-article",
+        "score": 97.65131
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "J.-Z. Zhao",
+          "H. L. Collins",
+          "Y.-X. Li",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "M. Hertlein",
+          "J. T. Andaloro",
+          "R. Boykin"
+        ],
+        "title": "Monitoring of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad, Indoxacarb, and Emamectin Benzoate",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493(2006)099[0176:modmlp]2.0.co;2",
+        "type": "journal-article",
+        "score": 97.59468
+      },
+      {
+        "year": 2002,
+        "authors": [
+          "J. -Z. Zhao",
+          "Y. -X. Li",
+          "H. L. Collins",
+          "L. Gusukuma-Minuto",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "A. M. Shelton"
+        ],
+        "title": "Monitoring and Characterization of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493-95.2.430",
+        "type": "journal-article",
+        "score": 72.019424
+      },
+      {
+        "year": 1982,
+        "authors": [
+          "P. B. Baker",
+          "A. M. Shelton",
+          "J. T. Andaloro"
+        ],
+        "title": "Monitoring of Diamondback Moth (Lepidoptera: Yponomeutidae) in Cabbage With Pheromones",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/75.6.1025",
+        "type": "journal-article",
+        "score": 47.94008
+      },
+      {
+        "year": 2001,
+        "authors": [
+          "Jian-Zhou Zhao",
+          "Ya-Xin LI",
+          "Hilda L. Collins",
+          "Jun Cao",
+          "Elizabeth D. Earle",
+          "Anthony M. Shelton"
+        ],
+        "title": "Different Cross-Resistance Patterns in the Diamondback Moth (Lepidoptera: Plutellidae) Resistant to <I>Bacillus thuringiensis</I> Toxin Cry1C",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493-94.6.1547",
+        "type": "journal-article",
+        "score": 40.671314
+      }
+    ]
+  },
+  {
+    "code": "C14",
+    "orig_authors": "Watson GB",
+    "orig_title": "Actions of insecticidal spinosyns on insect nicotinic acetylcholine receptors",
+    "candidates": [
+      {
+        "year": 2010,
+        "authors": [
+          "Steeve Hervé Thany"
+        ],
+        "title": "Electrophysiological Studies and Pharmacological Properties of Insect Native Nicotinic Acetylcholine Receptors",
+        "journal": "Advances in Experimental Medicine and Biology",
+        "doi": "10.1007/978-1-4419-6445-8_5",
+        "type": "book-chapter",
+        "score": 44.123253
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Neil S. Millar",
+          "Stuart J. Lansdell"
+        ],
+        "title": "Characterisation of Insect Nicotinic Acetylcholine Receptors by Heterologous Expression",
+        "journal": "Advances in Experimental Medicine and Biology",
+        "doi": "10.1007/978-1-4419-6445-8_6",
+        "type": "book-chapter",
+        "score": 43.748615
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "Chaoxian Geng",
+          "Gerald B. Watson",
+          "Thomas C. Sparks"
+        ],
+        "title": "Nicotinic Acetylcholine Receptors as Spinosyn Targets for Insect Pest Management",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/b978-0-12-394389-7.00003-x",
+        "type": "book-chapter",
+        "score": 42.76271
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Andrew K. Jones",
+          "David B. Sattelle"
+        ],
+        "title": "Diversity of Insect Nicotinic Acetylcholine Receptor Subunits",
+        "journal": "Advances in Experimental Medicine and Biology",
+        "doi": "10.1007/978-1-4419-6445-8_3",
+        "type": "book-chapter",
+        "score": 41.903923
+      },
+      {
+        "year": 1988,
+        "authors": [
+          "David R. E. Macallan",
+          "Susan Wonnacott",
+          "George G. Lunt"
+        ],
+        "title": "Nicotinic Acetylcholine Receptors in Insect Ganglia and Mammalian Brain: Some Comparisons",
+        "journal": "Nicotinic Acetylcholine Receptors in the Nervous System",
+        "doi": "10.1007/978-3-642-74167-8_16",
+        "type": "book-chapter",
+        "score": 41.072407
+      }
+    ]
+  },
+  {
+    "code": "C15",
+    "orig_authors": "Perry T, McKenzie JA, Batterham P",
+    "orig_title": "A Drosophila nicotinic acetylcholine receptor subunit is associated with spinosad resistance",
+    "candidates": [
+      {
+        "year": 2008,
+        "authors": [
+          "Trent Perry",
+          "David G. Heckel",
+          "John A. McKenzie",
+          "Philip Batterham"
+        ],
+        "title": "Mutations in Dα1 or Dβ2 nicotinic acetylcholine receptor subunits can confer resistance to neonicotinoids in Drosophila melanogaster",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2007.12.007",
+        "type": "journal-article",
+        "score": 56.046516
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Jason Somers",
+          "Joseph Nguyen",
+          "Chris Lumb",
+          "Phil Batterham",
+          "Trent Perry"
+        ],
+        "title": "In vivo functional analysis of the Drosophila melanogaster nicotinic acetylcholine receptor Dα6 using the insecticide spinosad",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2015.01.018",
+        "type": "journal-article",
+        "score": 55.87025
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Mei-Er Chen"
+        ],
+        "title": "Mutation and transcriptional expression of nicotinic acetylcholine receptor subunit α6 associated with spinosad resistance in Rhyzopertha dominica",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.111290",
+        "type": "proceedings-article",
+        "score": 55.641674
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Jason Somers",
+          "Hang Ngoc Bao Luong",
+          "Philip Batterham",
+          "Trent Perry"
+        ],
+        "title": "Deletion of the nicotinic acetylcholine receptor subunit gene Dα1 confers insecticide resistance, but at what cost?",
+        "journal": "Fly",
+        "doi": "10.1080/19336934.2017.1396399",
+        "type": "journal-article",
+        "score": 51.681786
+      },
+      {
+        "year": 2018,
+        "authors": [
+          "Hang-Tang Wang",
+          "Cheng-Lung Tsai",
+          "Mei-Er Chen"
+        ],
+        "title": "Nicotinic acetylcholine receptor subunit α6 associated with spinosad resistance in Rhyzopertha dominica (Coleoptera: Bostrichidae)",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2018.03.016",
+        "type": "journal-article",
+        "score": 50.684208
+      }
+    ]
+  },
+  {
+    "code": "C20",
+    "orig_authors": "Lansdell SJ, Millar NS",
+    "orig_title": "Heterologous expression and pharmacology of insect nicotinic acetylcholine receptor subunits",
+    "candidates": [
+      {
+        "year": 2010,
+        "authors": [
+          "Neil S. Millar",
+          "Stuart J. Lansdell"
+        ],
+        "title": "Characterisation of Insect Nicotinic Acetylcholine Receptors by Heterologous Expression",
+        "journal": "Advances in Experimental Medicine and Biology",
+        "doi": "10.1007/978-1-4419-6445-8_6",
+        "type": "book-chapter",
+        "score": 70.76345
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Toby Collins",
+          "Stuart J. Lansdell",
+          "Neil S. Millar"
+        ],
+        "title": "Characterization of insect nicotinic receptors by heterologous expression: Insecticide selectivity and the influence of molecular chaperones",
+        "journal": "Biochemical Pharmacology",
+        "doi": "10.1016/j.bcp.2009.06.037",
+        "type": "journal-article",
+        "score": 59.051575
+      },
+      {
+        "year": 2002,
+        "authors": [
+          "Stuart J. Lansdell",
+          "Neil S. Millar"
+        ],
+        "title": "Dβ3, an atypical nicotinic acetylcholine receptor subunit from Drosophila : molecular cloning, heterologous expression and coassembly",
+        "journal": "Journal of Neurochemistry",
+        "doi": "10.1046/j.0022-3042.2002.00789.x",
+        "type": "journal-article",
+        "score": 55.572205
+      },
+      {
+        "year": 2000,
+        "authors": [
+          "Stuart J Lansdell",
+          "Neil S Millar"
+        ],
+        "title": "Cloning and heterologous expression of Dα4, a Drosophila neuronal nicotinic acetylcholine receptor subunit: identification of an alternative exon influencing the efficiency of subunit assembly",
+        "journal": "Neuropharmacology",
+        "doi": "10.1016/s0028-3908(00)00111-8",
+        "type": "journal-article",
+        "score": 54.73282
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "Chris Bass",
+          "Stuart J. Lansdell",
+          "Neil S. Millar",
+          "Iris Schroeder",
+          "Andreas Turberg",
+          "Linda M. Field",
+          "Martin S. Williamson"
+        ],
+        "title": "Molecular characterisation of nicotinic acetylcholine receptor subunits from the cat flea, Ctenocephalides felis (Siphonaptera: Pulicidae)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2005.11.003",
+        "type": "journal-article",
+        "score": 53.53369
+      }
+    ]
+  },
+  {
+    "code": "C21",
+    "orig_authors": "Puinean AM, Lansdell SJ, Collins T, Bielza P, Millar NS",
+    "orig_title": "A nicotinic acetylcholine receptor transmembrane point mutation is associated with resistance to spinosad in thrips",
+    "candidates": [
+      {
+        "year": 2013,
+        "authors": [
+          "Alin M. Puinean",
+          "Stuart J. Lansdell",
+          "Toby Collins",
+          "Pablo Bielza",
+          "Neil S. Millar"
+        ],
+        "title": "A nicotinic acetylcholine receptor transmembrane point mutation (G275E) associated with resistance to spinosad in F rankliniella occidentalis",
+        "journal": "Journal of Neurochemistry",
+        "doi": "10.1111/jnc.12029",
+        "type": "journal-article",
+        "score": 102.557625
+      },
+      {
+        "year": 2024,
+        "authors": [
+          "Bin Zeng",
+          "Benjamin  J. Hunt",
+          "Adam Pym",
+          "Virginia Balanza",
+          "Chris Bass",
+          "Pablo Bielza",
+          "Bartlomiej  J. Troczka"
+        ],
+        "title": "Aberrant Splicing of a Nicotinic Acetylcholine Receptor Alpha 6 Subunit is Associated with Spinosad Tolerance in the Thrips Predator Orius Laevigatus",
+        "journal": "",
+        "doi": "10.2139/ssrn.4689732",
+        "type": "posted-content",
+        "score": 59.288322
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Mirel Puinean"
+        ],
+        "title": "Allosteric modulation of tick nicotinic acetylcholine receptor alpha 5 and alpha6 by spinosad",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.91232",
+        "type": "proceedings-article",
+        "score": 58.067375
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Jing Wang",
+          "Xingliang Wang",
+          "Stuart J. Lansdell",
+          "Jianheng Zhang",
+          "Neil S. Millar",
+          "Yidong Wu"
+        ],
+        "title": "A three amino acid deletion in the transmembrane domain of the nicotinic acetylcholine receptor α6 subunit confers high-level resistance to spinosad in Plutella xylostella",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2016.02.001",
+        "type": "journal-article",
+        "score": 55.91208
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Mei-Er Chen"
+        ],
+        "title": "Mutation and transcriptional expression of nicotinic acetylcholine receptor subunit α6 associated with spinosad resistance in Rhyzopertha dominica",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.111290",
+        "type": "proceedings-article",
+        "score": 54.44712
+      }
+    ]
+  },
+  {
+    "code": "C22",
+    "orig_authors": "Crossthwaite AJ, Bigot A, Camblin P, et al",
+    "orig_title": "The invertebrate pharmacology of sulfoxaflor and nAChR agonist insecticides",
+    "candidates": [
+      {
+        "year": 2017,
+        "authors": [
+          "Andrew J. Crossthwaite",
+          "Aurelien Bigot",
+          "Philippe Camblin",
+          "Jim Goodchild",
+          "Robert J. Lind",
+          "Russell Slater",
+          "Peter Maienfisch"
+        ],
+        "title": "The invertebrate pharmacology of insecticides acting at nicotinic acetylcholine receptors",
+        "journal": "Journal of Pesticide Science",
+        "doi": "10.1584/jpestics.d17-019",
+        "type": "journal-article",
+        "score": 42.20977
+      },
+      {
+        "year": 2016,
+        "authors": [],
+        "title": "Review Bigot et al.",
+        "journal": "",
+        "doi": "10.5194/tc-2016-178-rc1",
+        "type": "peer-review",
+        "score": 29.673687
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Yahya Al Naggar",
+          "Robert J. Paxton"
+        ],
+        "title": "The novel insecticides flupyradifurone and sulfoxaflor do not act synergistically with viral pathogens in reducing honey bee ( Apis mellifera ) survival but sulfoxaflor modulates host immunocompetence",
+        "journal": "Microbial Biotechnology",
+        "doi": "10.1111/1751-7915.13673",
+        "type": "journal-article",
+        "score": 27.569126
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Keiichi Nagata"
+        ],
+        "title": "TRP channels as target sites for insecticides: physiology, pharmacology and toxicology",
+        "journal": "Invertebrate Neuroscience",
+        "doi": "10.1007/s10158-007-0044-4",
+        "type": "journal-article",
+        "score": 25.110615
+      },
+      {
+        "year": 1998,
+        "authors": [
+          "R. L. ROSATI",
+          "ET AL. ET AL.",
+          "ET AL. ET AL."
+        ],
+        "title": "ChemInform Abstract: Discovery and Preclinical Pharmacology of a Novel, Potent, Nonsteroidal Estrogen Receptor Agonist/Antagonist, CP‐336156, a Diaryltetrahydronaphthalene.",
+        "journal": "ChemInform",
+        "doi": "10.1002/chin.199849121",
+        "type": "journal-article",
+        "score": 24.416546
+      }
+    ]
+  },
+  {
+    "code": "C24",
+    "orig_authors": "Mutero A, Pralavorio M, Bride JM, Fournier D",
+    "orig_title": "Resistance-associated point mutations in insect acetylcholinesterase",
+    "candidates": [
+      {
+        "year": 1994,
+        "authors": [
+          "A Mutero",
+          "M Pralavorio",
+          "J M Bride",
+          "D Fournier"
+        ],
+        "title": "Resistance-associated point mutations in insecticide-insensitive acetylcholinesterase.",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "doi": "10.1073/pnas.91.13.5922",
+        "type": "journal-article",
+        "score": 71.551285
+      },
+      {
+        "year": 1993,
+        "authors": [
+          "Didier Fournier",
+          "Annick Mutero",
+          "Madeleine Pralavorio",
+          "Jean-Marc Bride"
+        ],
+        "title": "Drosophila acetylcholinesterase: Mechanisms of resistance to organophosphates",
+        "journal": "Chemico-Biological Interactions",
+        "doi": "10.1016/0009-2797(93)90047-3",
+        "type": "journal-article",
+        "score": 60.02746
+      },
+      {
+        "year": 1994,
+        "authors": [
+          "Annick Mutero",
+          "Jean-Marc Bride",
+          "Madeleine Pralavorio",
+          "Didier Fournier"
+        ],
+        "title": "Drosophila melanogaster acetylcholinesterase: Identification and expression of two mutations responsible for cold- and heat-sensitive phenotypes",
+        "journal": "Molecular and General Genetics MGG",
+        "doi": "10.1007/bf00279580",
+        "type": "journal-article",
+        "score": 54.365734
+      },
+      {
+        "year": 1992,
+        "authors": [
+          "Didier Fournier",
+          "Annick Mutero",
+          "Madeleine Pralavorio",
+          "Jean Marc Bride"
+        ],
+        "title": "Drosophila Acetylcholinesterase: Analysis of Structure and Sensitivity to Insecticides by In Vitro Mutagenesis and Expression",
+        "journal": "Multidisciplinary Approaches to Cholinesterase Functions",
+        "doi": "10.1007/978-1-4615-3046-6_10",
+        "type": "book-chapter",
+        "score": 51.907772
+      },
+      {
+        "year": 1995,
+        "authors": [
+          "Didier Fournier",
+          "Marie Maturano",
+          "Laurent Gagnoux",
+          "Philippe Ziliani",
+          "Cyril Pertuy",
+          "Madeleine Pralavorio",
+          "Jean-Marc Bride",
+          "Leila Elmarbouh"
+        ],
+        "title": "Insect Acetylcholinesterase and Resistance to Insecticides",
+        "journal": "Enzymes of the Cholinesterase Family",
+        "doi": "10.1007/978-1-4899-1051-6_32",
+        "type": "book-chapter",
+        "score": 49.709846
+      }
+    ]
+  },
+  {
+    "code": "D18",
+    "orig_authors": "Narahashi T, Zhao X, Ikeda T, Nagata K, Yeh JZ",
+    "orig_title": "Differential actions of insecticides on target sites: fipronil and GABA-gated chloride channels",
+    "candidates": [
+      {
+        "year": 2003,
+        "authors": [
+          "Xilong Zhao",
+          "Vincent L. Salgado",
+          "Jay Z. Yeh",
+          "Toshio Narahashi"
+        ],
+        "title": "Differential Actions of Fipronil and Dieldrin Insecticides on GABA-Gated Chloride Channels in Cockroach Neurons",
+        "journal": "The Journal of Pharmacology and Experimental Therapeutics",
+        "doi": "10.1124/jpet.103.051839",
+        "type": "journal-article",
+        "score": 77.04073
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "T. Narahashi",
+          "X. Zhao",
+          "T. Ikeda",
+          "K. Nagata",
+          "JZ Yeh"
+        ],
+        "title": "Differential actions of insecticides on target sites: basis for selective toxicity",
+        "journal": "Human & Experimental Toxicology",
+        "doi": "10.1177/0960327106078408",
+        "type": "journal-article",
+        "score": 71.81809
+      },
+      {
+        "year": 2004,
+        "authors": [
+          "Tomoko Ikeda",
+          "Keiichi Nagata",
+          "Yoshiaki Kono",
+          "Jay Z Yeh",
+          "Toshio Narahashi"
+        ],
+        "title": "Fipronil modulation of GABA A receptor single‐channel currents",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.830",
+        "type": "journal-article",
+        "score": 53.313263
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Toshio Narahashi",
+          "Xilong Zhao",
+          "Tomoko Ikeda",
+          "Vincent L. Salgado",
+          "Jay Z. Yeh"
+        ],
+        "title": "Glutamate-activated chloride channels: Unique fipronil targets present in insects but not in mammals",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2009.07.008",
+        "type": "journal-article",
+        "score": 52.04629
+      },
+      {
+        "year": 2003,
+        "authors": [
+          "Tomoko Ikeda",
+          "Xilong Zhao",
+          "Yoshiaki Kono",
+          "Jay Z Yeh",
+          "Toshio Narahashi"
+        ],
+        "title": "Fipronil Modulation of Glutamate-Induced Chloride Currents in Cockroach Thoracic Ganglion Neurons",
+        "journal": "NeuroToxicology",
+        "doi": "10.1016/s0161-813x(03)00041-x",
+        "type": "journal-article",
+        "score": 50.892788
+      }
+    ]
+  },
+  {
+    "code": "D21",
+    "orig_authors": "Nakao T, Kawase A, Kinoshita A, Abe R, Hama M, Kawahara N, Hirase K",
+    "orig_title": "The A2' mutation in RDL GABA receptor confers resistance to meta-diamide and isoxazoline insecticides",
+    "candidates": [
+      {
+        "year": 2011,
+        "authors": [
+          "Toshifumi Nakao",
+          "Ayumi Kawase",
+          "Ayako Kinoshita",
+          "Reiko Abe",
+          "Masako Hama",
+          "Nobuyuki Kawahara",
+          "Kangetsu Hirase"
+        ],
+        "title": "The A2′N Mutation of the RDL γ-Aminobutyric Acid Receptor Conferring Fipronil Resistance in Laodelphax striatellus (Hemiptera: Delphacidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/ec10391",
+        "type": "journal-article",
+        "score": 87.237404
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Toshifumi Nakao",
+          "Shinichi Banba",
+          "Kangetsu Hirase"
+        ],
+        "title": "Comparison between the modes of action of novel meta-diamide and macrocyclic lactone insecticides on the RDL GABA receptor",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2014.09.011",
+        "type": "journal-article",
+        "score": 67.479095
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "Toshifumi Nakao",
+          "Shinich Banba",
+          "Michikazu Nomura",
+          "Kangetsu Hirase"
+        ],
+        "title": "Meta-diamide insecticides acting on distinct sites of RDL GABA receptor from those for conventional noncompetitive antagonists",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2013.02.002",
+        "type": "journal-article",
+        "score": 66.02843
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Toshifumi Nakao",
+          "Atsuko Naoi",
+          "Masako Hama",
+          "Nobuyuki Kawahara",
+          "Kangetsu Hirase"
+        ],
+        "title": "Concentration-Dependent Effects of GABA on Insensitivity to Fipronil in the A2′S Mutant RDL GABA Receptor From Fipronil-Resistant <I>Oulema oryzae</I> (Coleoptera: Chrysomelidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/ec12073",
+        "type": "journal-article",
+        "score": 61.69101
+      },
+      {
+        "year": 2024,
+        "authors": [
+          "Tianhao Zhou",
+          "Weiping Wu",
+          "Suhan Ma",
+          "Jie Chen",
+          "Jia Huang",
+          "Xiaomu Qiao"
+        ],
+        "title": "Effects of RDL GABA Receptor Point Mutants on Susceptibility to Meta-Diamide and Isoxazoline Insecticides in Drosophila melanogaster",
+        "journal": "Insects",
+        "doi": "10.3390/insects15050334",
+        "type": "journal-article",
+        "score": 60.31304
+      }
+    ]
+  },
+  {
+    "code": "D22",
+    "orig_authors": "Casida JE, Durkin KA",
+    "orig_title": "Novel GABA receptor pesticide targets and photochemistry of phenylpyrazoles",
+    "candidates": [
+      {
+        "year": 2015,
+        "authors": [
+          "John E. Casida",
+          "Kathleen A. Durkin"
+        ],
+        "title": "Novel GABA receptor pesticide targets",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2014.11.006",
+        "type": "journal-article",
+        "score": 65.294266
+      },
+      {
+        "year": 2004,
+        "authors": [
+          "Robert E Sammelson",
+          "Pierluigi Caboni",
+          "Kathleen A Durkin",
+          "John E Casida"
+        ],
+        "title": "GABA receptor antagonists and insecticides: common structural features of 4-alkyl-1-phenylpyrazoles and 4-alkyl-1-phenyltrioxabicyclooctanes",
+        "journal": "Bioorganic & Medicinal Chemistry",
+        "doi": "10.1016/j.bmc.2004.03.069",
+        "type": "journal-article",
+        "score": 43.92098
+      },
+      {
+        "year": 1993,
+        "authors": [
+          "L.M. Cole",
+          "R.A. Nicholson",
+          "J.E. Casida"
+        ],
+        "title": "Action of Phenylpyrazole Insecticides at the GABA-Gated Chloride Channel",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1006/pest.1993.1035",
+        "type": "journal-article",
+        "score": 31.897429
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "John E. Casida",
+          "Kathleen A. Durkin"
+        ],
+        "title": "Pesticide Chemical Research in Toxicology: Lessons from Nature",
+        "journal": "Chemical Research in Toxicology",
+        "doi": "10.1021/acs.chemrestox.6b00303",
+        "type": "journal-article",
+        "score": 30.69945
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "John E. Casida",
+          "Kathleen A. Durkin"
+        ],
+        "title": "Neuroactive Insecticides: Targets, Selectivity, Resistance, and Secondary Effects",
+        "journal": "Annual Review of Entomology",
+        "doi": "10.1146/annurev-ento-120811-153645",
+        "type": "journal-article",
+        "score": 29.51712
+      }
+    ]
+  },
+  {
+    "code": "D23",
+    "orig_authors": "Le Goff G, Hamon A, Berge JB, Amichot M",
+    "orig_title": "Resistance to fipronil in insects associated with RDL mutations",
+    "candidates": [
+      {
+        "year": 2005,
+        "authors": [
+          "Gaëlle Le Goff",
+          "Alain Hamon",
+          "Jean‐Baptiste Bergé",
+          "Marcel Amichot"
+        ],
+        "title": "Resistance to fipronil in Drosophila simulans : influence of two point mutations in the RDL GABA receptor subunit",
+        "journal": "Journal of Neurochemistry",
+        "doi": "10.1111/j.1471-4159.2004.02922.x",
+        "type": "journal-article",
+        "score": 64.86524
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Chystrie A. Rigg",
+          "Andrés Cabrera",
+          "Vanessa Vásquez",
+          "Ana María Santamaría",
+          "Lorenzo Cáceres",
+          "Lisbeth A. Hurtado",
+          "Gonzalo Greif",
+          "José E. Calzada"
+        ],
+        "title": "Molecular Detection of Insecticide Resistance-Associated Mutations in vgsc, ace-1, and rdl Genes of Anopheles albimanus in Panama",
+        "journal": "Insects",
+        "doi": "10.3390/insects16111115",
+        "type": "journal-article",
+        "score": 34.96217
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Gaëlle Le Goff",
+          "Ralf Nauen"
+        ],
+        "title": "Recent Advances in the Understanding of Molecular Mechanisms of Resistance in Noctuid Pests",
+        "journal": "Insects",
+        "doi": "10.3390/insects12080674",
+        "type": "journal-article",
+        "score": 33.31771
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Frédérique Hilliou",
+          "Thomas Chertemps",
+          "Martine Maïbèche",
+          "Gaëlle Le Goff"
+        ],
+        "title": "Resistance in the Genus Spodoptera: Key Insect Detoxification Genes",
+        "journal": "Insects",
+        "doi": "10.3390/insects12060544",
+        "type": "journal-article",
+        "score": 33.102318
+      },
+      {
+        "year": 1992,
+        "authors": [
+          "David Pauron",
+          "Marcel Amichot",
+          "Jean-Baptiste Berge"
+        ],
+        "title": "Voltage-Dependent Sodium Channels in Susceptible and Pyrethroid-Resistant Drosophila Strains",
+        "journal": "Resistance ’91: Achievements and Developments in Combating Pesticide Resistance",
+        "doi": "10.1007/978-94-011-2862-9_19",
+        "type": "book-chapter",
+        "score": 32.255272
+      }
+    ]
+  },
+  {
+    "code": "D24",
+    "orig_authors": "Bass C, Schroeder I, Turberg A, Field LM, Williamson MS",
+    "orig_title": "Identification of mutations associated with fipronil resistance in insect GABA receptors",
+    "candidates": [
+      {
+        "year": 2004,
+        "authors": [
+          "Chris Bass",
+          "Iris Schroeder",
+          "Andreas Turberg",
+          "Linda M Field",
+          "Martin S Williamson"
+        ],
+        "title": "Identification of mutations associated with pyrethroid resistance in the para-type sodium channel of the cat flea, Ctenocephalides felis",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2004.09.002",
+        "type": "journal-article",
+        "score": 64.809494
+      },
+      {
+        "year": 2019,
+        "authors": [
+          "Yafeng Tian",
+          "Ya Gao",
+          "Yanming Chen",
+          "Genyan Liu",
+          "Xiulian Ju"
+        ],
+        "title": "Identification of The Fipronil Resistance Associated Mutations in Nilaparvata lugens GABA Receptors by Molecular Modeling",
+        "journal": "Molecules",
+        "doi": "10.3390/molecules24224116",
+        "type": "journal-article",
+        "score": 49.382015
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "Chris Bass",
+          "Stuart J. Lansdell",
+          "Neil S. Millar",
+          "Iris Schroeder",
+          "Andreas Turberg",
+          "Linda M. Field",
+          "Martin S. Williamson"
+        ],
+        "title": "Molecular characterisation of nicotinic acetylcholine receptor subunits from the cat flea, Ctenocephalides felis (Siphonaptera: Pulicidae)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2005.11.003",
+        "type": "journal-article",
+        "score": 44.663483
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Khalid Haddi",
+          "Madeleine Berger",
+          "Pablo Bielza",
+          "Dina Cifuentes",
+          "Linda M. Field",
+          "Kevin Gorman",
+          "Carmelo Rapisarda",
+          "Martin S. Williamson"
+        ],
+        "title": "Identification of mutations associated with pyrethroid resistance in the voltage-gated sodium channel of the tomato leaf miner (Tuta absoluta)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2012.03.008",
+        "type": "journal-article",
+        "score": 42.660484
+      },
+      {
+        "year": 2004,
+        "authors": [
+          "Chris Bass",
+          "Iris Schroeder",
+          "Andreas Turberg",
+          "Linda M Field",
+          "Martin S Williamson"
+        ],
+        "title": "Identification of the Rdl mutation in laboratory and field strains of the cat flea, Ctenocephalides felis (Siphonaptera: Pulicidae)",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.937",
+        "type": "journal-article",
+        "score": 42.489685
+      }
+    ]
+  },
+  {
+    "code": "D25",
+    "orig_authors": "Pitterna T, Cassayre J, Hüter OF, Jung PMJ, Maienfisch P, Kessabi FM, Quaranta L, Tobler H",
+    "orig_title": "New ventures in the chemistry of avermectins and chloride-channel activators",
+    "candidates": [
+      {
+        "year": 2009,
+        "authors": [
+          "Thomas Pitterna",
+          "Jérôme Cassayre",
+          "Ottmar Franz Hüter",
+          "Pierre M.J. Jung",
+          "Peter Maienfisch",
+          "Fiona Murphy Kessabi",
+          "Laura Quaranta",
+          "Hans Tobler"
+        ],
+        "title": "New ventures in the chemistry of avermectins",
+        "journal": "Bioorganic & Medicinal Chemistry",
+        "doi": "10.1016/j.bmc.2008.12.069",
+        "type": "journal-article",
+        "score": 116.05844
+      },
+      {
+        "year": 2026,
+        "authors": [
+          "Ottmar Franz Hüter",
+          "Thomas Pitterna"
+        ],
+        "title": "Glutamate‐gated Chloride Channel Allosteric Modulators: Avermectins and Milbemycins",
+        "journal": "Modern Crop Protection Compounds",
+        "doi": "10.1002/9783527843879.ch41.9",
+        "type": "other",
+        "score": 61.680943
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Jérôme Cassayre",
+          "Tammo Winkler",
+          "Thomas Pitterna",
+          "Laura Quaranta"
+        ],
+        "title": "Application of Mn(III)-catalysed olefin hydration reaction to the selective functionalisation of avermectin B1",
+        "journal": "Tetrahedron Letters",
+        "doi": "10.1016/j.tetlet.2010.01.080",
+        "type": "journal-article",
+        "score": 37.670586
+      },
+      {
+        "year": 1999,
+        "authors": [
+          "Thomas Göbel",
+          "Laurenz Gsell",
+          "Ottmar F Hüter",
+          "Peter Maienfisch",
+          "Rudolf Naef",
+          "Anthony C O'Sullivan",
+          "Thomas Pitterna",
+          "Thomas Rapold"
+        ],
+        "title": "Synthetic approaches towards CGA 293'343: a novel broad-spectrum insecticide",
+        "journal": "Pesticide Science",
+        "doi": "10.1002/(sici)1096-9063(199903)55:3<355::aid-ps904>3.0.co;2-b",
+        "type": "journal-article",
+        "score": 35.776215
+      },
+      {
+        "year": 1999,
+        "authors": [
+          "Thomas Göbel",
+          "Laurenz Gsell",
+          "Ottmar F Hüter",
+          "Peter Maienfisch",
+          "Rudolf Naef",
+          "Anthony C O'Sullivan",
+          "Thomas Pitterna",
+          "Thomas Rapold"
+        ],
+        "title": "Synthetic approaches towards CGA 293'343: a novel broad‐spectrum insecticide",
+        "journal": "Pesticide Science",
+        "doi": "10.1002/(sici)1096-9063(199903)55:3<355::aid-ps904>3.3.co;2-2",
+        "type": "journal-article",
+        "score": 33.02946
+      }
+    ]
+  },
+  {
+    "code": "E02",
+    "orig_authors": "Martinez-Torres D, Chandre F, Williamson MS, Darriet F, Berge JB, Devonshire AL, Guillet P, Pasteur N, Pauron D",
+    "orig_title": "Molecular characterization of pyrethroid knockdown resistance in insect sodium channels",
+    "candidates": [
+      {
+        "year": 1998,
+        "authors": [
+          "D. Martinez‐Torres",
+          "F. Chandre",
+          "M. S. Williamson",
+          "F. Darriet",
+          "J. B. Bergé",
+          "A. L. Devonshire",
+          "P. Guillet",
+          "N. Pasteur"
+        ],
+        "title": "Molecular characterization of pyrethroid knockdown resistance ( kdr ) in the major malaria vector Anopheles gambiae s.s.",
+        "journal": "Insect Molecular Biology",
+        "doi": "10.1046/j.1365-2583.1998.72062.x",
+        "type": "journal-article",
+        "score": 109.74705
+      },
+      {
+        "year": 1996,
+        "authors": [
+          "Martin S. Williamson",
+          "David Martinez-Torres",
+          "Caroline A. Hick",
+          "Nathalie Castells",
+          "Alan L. Devonshire"
+        ],
+        "title": "Analysis of Sodium Channel Gene Sequences in Pyrethroid-Resistant Houseflies",
+        "journal": "ACS Symposium Series",
+        "doi": "10.1021/bk-1996-0645.ch006",
+        "type": "book-chapter",
+        "score": 58.10276
+      },
+      {
+        "year": 1996,
+        "authors": [
+          "Martin S. Williamson",
+          "David Martinez-Torres",
+          "Caroline A. Hick",
+          "Alan L. Devonshire"
+        ],
+        "title": "Identification of mutations in the houseflypara-type sodium channel gene associated with knockdown resistance (kdr) to pyrethroid insecticides",
+        "journal": "Molecular and General Genetics MGG",
+        "doi": "10.1007/bf02173204",
+        "type": "journal-article",
+        "score": 57.818962
+      },
+      {
+        "year": 1999,
+        "authors": [
+          "D. Martinez‐Torres",
+          "S. P. Foster",
+          "L. M. Field",
+          "A. L. Devonshire",
+          "M. S. Williamson"
+        ],
+        "title": "A sodium channel point mutation is associated with resistance to DDT and pyrethroid insecticides in the peach‐potato aphid, Myzus persicae (Sulzer) (Hemiptera: Aphididae)",
+        "journal": "Insect Molecular Biology",
+        "doi": "10.1046/j.1365-2583.1999.83121.x",
+        "type": "journal-article",
+        "score": 56.17073
+      },
+      {
+        "year": 1992,
+        "authors": [
+          "David Pauron",
+          "Marcel Amichot",
+          "Jean-Baptiste Berge"
+        ],
+        "title": "Voltage-Dependent Sodium Channels in Susceptible and Pyrethroid-Resistant Drosophila Strains",
+        "journal": "Resistance ’91: Achievements and Developments in Combating Pesticide Resistance",
+        "doi": "10.1007/978-94-011-2862-9_19",
+        "type": "book-chapter",
+        "score": 55.1626
+      }
+    ]
+  },
+  {
+    "code": "E04",
+    "orig_authors": "Sonoda S, Tsukahara Y, Ashfaq M, Tsumuki H",
+    "orig_title": "Genomic organization of the sodium channel gene and pyrethroid resistance in *Plutella xylostella*",
+    "candidates": [
+      {
+        "year": 2003,
+        "authors": [
+          "Yoshitaka Tsukahara",
+          "Shoji Sonoda",
+          "Yuki Fujiwara",
+          "Fusao Nakasuji",
+          "Hisaaki Tsumuki"
+        ],
+        "title": "Molecular analysis of the para-sodium channel gene in the pyrethroid-resistant diamondback moth, Plutella xylostella (Lepidoptera: Yponomeutidae).",
+        "journal": "Applied Entomology and Zoology",
+        "doi": "10.1303/aez.2003.23",
+        "type": "journal-article",
+        "score": 74.055115
+      },
+      {
+        "year": 2008,
+        "authors": [
+          "Shoji Sonoda",
+          "Yoshitaka Tsukahara",
+          "Muhammad Ashfaq",
+          "Hisaaki Tsumuki"
+        ],
+        "title": "Genomic organization of the para ‐sodium channel α‐subunit genes from the pyrethroid‐resistant and ‐susceptible strains of the diamondback moth",
+        "journal": "Archives of Insect Biochemistry and Physiology",
+        "doi": "10.1002/arch.20246",
+        "type": "journal-article",
+        "score": 66.108185
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "Shoji Sonoda",
+          "Muhammad Ashfaq",
+          "Hisaaki Tsumuki"
+        ],
+        "title": "Genomic Organization and Developmental Expression of Glutathione S -Transferase Genes of the Diamondback Moth, Plutella xylostella",
+        "journal": "Journal of Insect Science",
+        "doi": "10.1673/031.006.3501",
+        "type": "journal-article",
+        "score": 62.749557
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Muhammad Ashfaq",
+          "Shoji Sonoda",
+          "Hisaaki Tsumuki"
+        ],
+        "title": "Developmental and tissue-specific expression of CHS1 from Plutella xylostella and its response to chlorfluazuron",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2007.02.004",
+        "type": "journal-article",
+        "score": 53.359955
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "Muhammad Ashfaq",
+          "Shoji Sonoda",
+          "Hisaaki Tsumuki"
+        ],
+        "title": "Expression of two methionine-rich storage protein genes of Plutella xylostella (L.) in response to development, juvenile hormone-analog and pyrethroid",
+        "journal": "Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.cbpb.2007.04.017",
+        "type": "journal-article",
+        "score": 53.079643
+      }
+    ]
+  },
+  {
+    "code": "E05",
+    "orig_authors": "Sayyed AH, Wright DJ",
+    "orig_title": "Genetics of indoxacarb resistance and cross-resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2006,
+        "authors": [
+          "Ali H Sayyed",
+          "Denis J Wright"
+        ],
+        "title": "Genetics and evidence for an esterase‐associated mechanism of resistance to indoxacarb in a field population of diamondback moth (Lepidoptera: Plutellidae)",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.1270",
+        "type": "journal-article",
+        "score": 60.172874
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "B. Raymond",
+          "A.H. Sayyed",
+          "D.J. Wright"
+        ],
+        "title": "The compatibility of a nucleopolyhedrosis virus control with resistance management for Bacillus thuringiensis: Co-infection and cross-resistance studies with the diamondback moth, Plutella xylostella",
+        "journal": "Journal of Invertebrate Pathology",
+        "doi": "10.1016/j.jip.2006.06.003",
+        "type": "journal-article",
+        "score": 50.185944
+      },
+      {
+        "year": 2001,
+        "authors": [
+          "Ali H Sayyed",
+          "Denis J Wright"
+        ],
+        "title": "Cross‐resistance and inheritance of resistance to Bacillus thuringiensis toxin Cry1Ac in diamondback moth ( Plutella xylostella L) from lowland Malaysia",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.313",
+        "type": "journal-article",
+        "score": 50.17007
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "R. M. Marak",
+          "D. M. Firake",
+          "P. P. Sontakke",
+          "G. T. Behere"
+        ],
+        "title": "Mode of inheritance of Indoxacarb resistance in diamondback moth, Plutella xylostella (L.) and cross resistance to different groups of pesticides",
+        "journal": "Phytoparasitica",
+        "doi": "10.1007/s12600-017-0618-6",
+        "type": "journal-article",
+        "score": 48.06561
+      },
+      {
+        "year": 2004,
+        "authors": [
+          "Ali H. Sayyed",
+          "Denis J. Wright"
+        ],
+        "title": "Fipronil Resistance in the Diamondback Moth (Lepidoptera: Plutellidae): Inheritance and Number of Genes Involved",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/97.6.2043",
+        "type": "journal-article",
+        "score": 47.87784
+      }
+    ]
+  },
+  {
+    "code": "E06",
+    "orig_authors": "Zhao JZ, Li YX, Collins HL, Gusukuma-Minuto L, Mau RFL, Thompson GD, Shelton AM",
+    "orig_title": "Monitoring and characterization of indoxacarb resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2002,
+        "authors": [
+          "J. -Z. Zhao",
+          "Y. -X. Li",
+          "H. L. Collins",
+          "L. Gusukuma-Minuto",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "A. M. Shelton"
+        ],
+        "title": "Monitoring and Characterization of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493-95.2.430",
+        "type": "journal-article",
+        "score": 88.666046
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "J.-Z. Zhao",
+          "H. L. Collins",
+          "Y.-X. Li",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "M. Hertlein",
+          "J. T. Andaloro",
+          "R. Boykin"
+        ],
+        "title": "Monitoring of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad, Indoxacarb, and Emamectin Benzoate",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/99.1.176",
+        "type": "journal-article",
+        "score": 69.20132
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "J.-Z. Zhao",
+          "H. L. Collins",
+          "Y.-X. Li",
+          "R. F. L. Mau",
+          "G. D. Thompson",
+          "M. Hertlein",
+          "J. T. Andaloro",
+          "R. Boykin"
+        ],
+        "title": "Monitoring of Diamondback Moth (Lepidoptera: Plutellidae) Resistance to Spinosad, Indoxacarb, and Emamectin Benzoate",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493(2006)099[0176:modmlp]2.0.co;2",
+        "type": "journal-article",
+        "score": 68.45101
+      },
+      {
+        "year": 1994,
+        "authors": [
+          "L. R. Gusukuma-Minuto",
+          "R.F.L. Mau",
+          "M. H. Kijima"
+        ],
+        "title": "Residual Efficacy of Selected Insecticides on the Diamondback Moth Adult, 1992",
+        "journal": "Arthropod Management Tests",
+        "doi": "10.1093/amt/19.1.371a",
+        "type": "journal-article",
+        "score": 57.4014
+      },
+      {
+        "year": 2001,
+        "authors": [
+          "Jian-Zhou Zhao",
+          "Ya-Xin LI",
+          "Hilda L. Collins",
+          "Jun Cao",
+          "Elizabeth D. Earle",
+          "Anthony M. Shelton"
+        ],
+        "title": "Different Cross-Resistance Patterns in the Diamondback Moth (Lepidoptera: Plutellidae) Resistant to <I>Bacillus thuringiensis</I> Toxin Cry1C",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/0022-0493-94.6.1547",
+        "type": "journal-article",
+        "score": 40.671318
+      }
+    ]
+  },
+  {
+    "code": "E08",
+    "orig_authors": "Wing KD, Andaloro JT, McCann SF, Salgado VL",
+    "orig_title": "Indoxacarb and the sodium-channel blocker insecticides: chemistry, physiology and field use",
+    "candidates": [
+      {
+        "year": 2005,
+        "authors": [
+          "K.D. Wing",
+          "J.T. Andaloro",
+          "S.F. McCann",
+          "V.L. Salgado"
+        ],
+        "title": "Indoxacarb and the Sodium Channel Blocker Insecticides: Chemistry, Physiology, and Biology in Insects",
+        "journal": "Comprehensive Molecular Insect Science",
+        "doi": "10.1016/b0-44-451924-6/00070-3",
+        "type": "book-chapter",
+        "score": 94.85245
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Discovery of a Novel Series of Tricyclic Oxadiazine 4a-Methyl Esters Based on Indoxacarb as Potential Sodium Channel Blocker/Modulator Insecticides",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.9b00826.s001",
+        "type": "component",
+        "score": 51.117203
+      },
+      {
+        "year": 2026,
+        "authors": [
+          "Kristopher Silver"
+        ],
+        "title": "Sodium channel blocker insecticides: Chemistry, physiology, and biology in insects",
+        "journal": "Comprehensive Molecular Insect Science",
+        "doi": "10.1016/b978-0-323-95424-2.00052-2",
+        "type": "book-chapter",
+        "score": 47.147984
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Kristopher S. Silver",
+          "Weizhong Song",
+          "Yoshiko Nomura",
+          "Vincent L. Salgado",
+          "Ke Dong"
+        ],
+        "title": "Mechanism of action of sodium channel blocker insecticides (SCBIs) on insect sodium channels",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2009.09.001",
+        "type": "journal-article",
+        "score": 45.857246
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Kristopher S. Silver",
+          "Yoshiko Nomura",
+          "Vincent L. Salgado",
+          "Ke Dong"
+        ],
+        "title": "Role of the sixth transmembrane segment of domain IV of the cockroach sodium channel in the action of sodium channel blocker insecticides",
+        "journal": "NeuroToxicology",
+        "doi": "10.1016/j.neuro.2009.03.009",
+        "type": "journal-article",
+        "score": 40.289795
+      }
+    ]
+  },
+  {
+    "code": "E13",
+    "orig_authors": "Du Y, Nomura Y, Zhorov BS, Dong K",
+    "orig_title": "Sodium channel mutations and dual pyrethroid receptor sites",
+    "candidates": [
+      {
+        "year": 2016,
+        "authors": [
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Boris Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Sodium Channel Mutations and Pyrethroid Resistance in Aedes aegypti",
+        "journal": "Insects",
+        "doi": "10.3390/insects7040060",
+        "type": "journal-article",
+        "score": 68.22835
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Ke Dong",
+          "Boris S. Zhorov"
+        ],
+        "title": "Rotational Symmetry of Two Pyrethroid Receptor Sites in the Mosquito Sodium Channel",
+        "journal": "Biophysical Journal",
+        "doi": "10.1016/j.bpj.2014.11.3136",
+        "type": "journal-article",
+        "score": 68.13958
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Boris S. Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Rotational Symmetry of Two Pyrethroid Receptor Sites in the Mosquito Sodium Channel",
+        "journal": "Molecular Pharmacology",
+        "doi": "10.1124/mol.115.098707",
+        "type": "journal-article",
+        "score": 67.16086
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Gul Satar",
+          "Zhaonong Hu",
+          "Ralf Nauen",
+          "Sheng Yang He",
+          "Boris S. Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Molecular evidence for dual pyrethroid-receptor sites on a mosquito sodium channel",
+        "journal": "Proceedings of the National Academy of Sciences",
+        "doi": "10.1073/pnas.1305118110",
+        "type": "journal-article",
+        "score": 59.012665
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Boris S. Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Elucidation of pyrethroid and DDT receptor sites in the voltage-gated sodium channel",
+        "journal": "NeuroToxicology",
+        "doi": "10.1016/j.neuro.2016.08.013",
+        "type": "journal-article",
+        "score": 58.123283
+      }
+    ]
+  },
+  {
+    "code": "E16",
+    "orig_authors": "Usherwood PNR, Davies TGE, Mellor IR, O'Reilly AO, Peng F, Vais H, Khambay BPS, Field LM, Williamson MS",
+    "orig_title": "Mutations in DIIS6 of the sodium channel and pyrethroid resistance",
+    "candidates": [
+      {
+        "year": 2007,
+        "authors": [
+          "P.N.R. Usherwood",
+          "T.G.E. Davies",
+          "I.R. Mellor",
+          "A.O. O'Reilly",
+          "F. Peng",
+          "H. Vais",
+          "B.P.S. Khambay",
+          "L.M. Field"
+        ],
+        "title": "Mutations in DIIS5 and the DIIS4–S5 linker of Drosophila melanogaster sodium channel define binding domains for pyrethroids and DDT",
+        "journal": "FEBS Letters",
+        "doi": "10.1016/j.febslet.2007.10.057",
+        "type": "journal-article",
+        "score": 73.70962
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Fang Peng",
+          "Ian R. Mellor",
+          "Martin S. Williamson",
+          "T.G. Emyr Davies",
+          "Linda M. Field",
+          "Peter N.R. Usherwood"
+        ],
+        "title": "Single channel study of deltamethrin interactions with wild-type and mutated rat NaV1.2 sodium channels expressed in Xenopus oocytes",
+        "journal": "NeuroToxicology",
+        "doi": "10.1016/j.neuro.2009.02.016",
+        "type": "journal-article",
+        "score": 51.97412
+      },
+      {
+        "year": 2005,
+        "authors": [
+          "P.N.R. Usherwood",
+          "H. Vais",
+          "B.P.S. Khambay",
+          "T.G.E. Davies",
+          "M.S. Williamson"
+        ],
+        "title": "Sensitivity of the Drosophila para sodium channel to DDT is not lowered by the super‐kdr mutation M918T on the IIS4–S5 linker that profoundly reduces sensitivity to permethrin and deltamethrin",
+        "journal": "FEBS Letters",
+        "doi": "10.1016/j.febslet.2005.09.096",
+        "type": "journal-article",
+        "score": 50.921066
+      },
+      {
+        "year": 2000,
+        "authors": [
+          "H. Vais",
+          "S. Atkinson",
+          "N. Eldursi",
+          "A.L. Devonshire",
+          "M.S. Williamson",
+          "P.N.R. Usherwood"
+        ],
+        "title": "A single amino acid change makes a rat neuronal sodium channel highly sensitive to pyrethroid insecticides",
+        "journal": "FEBS Letters",
+        "doi": "10.1016/s0014-5793(00)01305-3",
+        "type": "journal-article",
+        "score": 49.90873
+      },
+      {
+        "year": 2003,
+        "authors": [
+          "H. Vais",
+          "S. Atkinson",
+          "F. Pluteanu",
+          "S.J. Goodson",
+          "A.L. Devonshire",
+          "M.S. Williamson",
+          "P.N.R. Usherwood"
+        ],
+        "title": "Mutations of the para Sodium Channel of Drosophila melanogaster Identify Putative Binding Sites for Pyrethroids",
+        "journal": "Molecular Pharmacology",
+        "doi": "10.1124/mol.64.4.914",
+        "type": "journal-article",
+        "score": 48.445496
+      }
+    ]
+  },
+  {
+    "code": "E17",
+    "orig_authors": "Nauen R, Reckmann U, Thomzik J, Thielert W",
+    "orig_title": "Biological profile of metaflumizone and sodium-channel blocker insecticides",
+    "candidates": [
+      {
+        "year": 2007,
+        "authors": [
+          "V.L. Salgado",
+          "J.H. Hayashi"
+        ],
+        "title": "Metaflumizone is a novel sodium channel blocker insecticide",
+        "journal": "Veterinary Parasitology",
+        "doi": "10.1016/j.vetpar.2007.08.032",
+        "type": "journal-article",
+        "score": 40.323936
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Yuzhe Du",
+          "Yongqiang Zhang",
+          "Dingxin Jiang",
+          "Caitlyn Behnke",
+          "Yoshiko Nomura",
+          "Ke Dong",
+          "Boris S. Zhorov"
+        ],
+        "title": "Mapping Receptor Sites for Sodium Channel Blocking Insecticides DCJW and Metaflumizone in an Insect Sodium Channel",
+        "journal": "Biophysical Journal",
+        "doi": "10.1016/j.bpj.2015.11.658",
+        "type": "journal-article",
+        "score": 37.10168
+      },
+      {
+        "year": null,
+        "authors": [],
+        "title": "Discovery of a Novel Series of Tricyclic Oxadiazine 4a-Methyl Esters Based on Indoxacarb as Potential Sodium Channel Blocker/Modulator Insecticides",
+        "journal": "",
+        "doi": "10.1021/acs.jafc.9b00826.s001",
+        "type": "component",
+        "score": 36.196293
+      },
+      {
+        "year": 2026,
+        "authors": [
+          "Kristopher Silver"
+        ],
+        "title": "Sodium channel blocker insecticides: Chemistry, physiology, and biology in insects",
+        "journal": "Comprehensive Molecular Insect Science",
+        "doi": "10.1016/b978-0-323-95424-2.00052-2",
+        "type": "book-chapter",
+        "score": 36.128555
+      },
+      {
+        "year": 2023,
+        "authors": [
+          "Beata Niklas",
+          "Jakub Rydzewski",
+          "Bruno Lapied",
+          "Wieslaw Nowak"
+        ],
+        "title": "Toward overcoming pyrethroid resistance in mosquito control: the role of sodium channel blocker insecticides",
+        "journal": "",
+        "doi": "10.1101/2023.03.29.534712",
+        "type": "posted-content",
+        "score": 34.725517
+      }
+    ]
+  },
+  {
+    "code": "E18",
+    "orig_authors": "Silver KS, Du Y, Nomura Y, Oliveira EE, Salgado VL, Zhorov BS, Dong K",
+    "orig_title": "Voltage-gated sodium channels as insecticide targets",
+    "candidates": [
+      {
+        "year": 2014,
+        "authors": [
+          "Kristopher S. Silver",
+          "Yuzhe Du",
+          "Yoshiko Nomura",
+          "Eugenio E. Oliveira",
+          "Vincent L. Salgado",
+          "Boris S. Zhorov",
+          "Ke Dong"
+        ],
+        "title": "Voltage-Gated Sodium Channels as Insecticide Targets",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/b978-0-12-417010-0.00005-7",
+        "type": "book-chapter",
+        "score": 83.7221
+      },
+      {
+        "year": 2002,
+        "authors": [
+          "Ke Dong"
+        ],
+        "title": "Voltage‐Gated Sodium Channels as Insecticide Targets",
+        "journal": "Chemistry of Crop Protection",
+        "doi": "10.1002/3527602038.ch14",
+        "type": "other",
+        "score": 54.75324
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Boris S. Zhorov"
+        ],
+        "title": "Structural Models of Ligand-Bound Sodium Channels",
+        "journal": "Handbook of Experimental Pharmacology",
+        "doi": "10.1007/164_2017_44",
+        "type": "book-chapter",
+        "score": 47.643036
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Ke Dong",
+          "Yuzhe Du",
+          "Frank Rinkevich",
+          "Yoshiko Nomura",
+          "Peng Xu",
+          "Lingxin Wang",
+          "Kristopher Silver",
+          "Boris S. Zhorov"
+        ],
+        "title": "Molecular biology of insect sodium channels and pyrethroid resistance",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2014.03.012",
+        "type": "journal-article",
+        "score": 46.575035
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Boris S. Zhorov"
+        ],
+        "title": "Computational Study of Ion Selectivity in Eukaryotic Voltage-Gated Sodium Channels",
+        "journal": "Biophysical Journal",
+        "doi": "10.1016/j.bpj.2020.11.1117",
+        "type": "journal-article",
+        "score": 45.658924
+      }
+    ]
+  },
+  {
+    "code": "F08",
+    "orig_authors": "Masaki T, Yasokawa N, Tohnishi M, Nishimatsu T, Tsubata K, Inoue K, Motoba K, Hirooka T",
+    "orig_title": "Flubendiamide, a novel Ca2+ channel modulator, reveals evidence for insect ryanodine receptor selectivity",
+    "candidates": [
+      {
+        "year": 2006,
+        "authors": [
+          "Takao Masaki",
+          "Noriaki Yasokawa",
+          "Masanori Tohnishi",
+          "Tetsuyoshi Nishimatsu",
+          "Kenji Tsubata",
+          "Kazuyoshi Inoue",
+          "Kazuhiko Motoba",
+          "Takashi Hirooka"
+        ],
+        "title": "Flubendiamide, a Novel Ca2+ Channel Modulator, Reveals Evidence for Functional Cooperation between Ca2+ Pumps and Ca2+ Release",
+        "journal": "Molecular Pharmacology",
+        "doi": "10.1124/mol.105.020339",
+        "type": "journal-article",
+        "score": 133.15263
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Takao Masaki",
+          "Noriaki Yasokawa",
+          "Shinsuke Fujioka",
+          "Kazuhiko Motoba",
+          "Masanori Tohnishi",
+          "Takashi Hirooka"
+        ],
+        "title": "Quantitative relationship between insecticidal activity and Ca2+ pump stimulation by flubendiamide and its related compounds",
+        "journal": "Journal of Pesticide Science",
+        "doi": "10.1584/jpestics.g08-29",
+        "type": "journal-article",
+        "score": 70.30665
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Masanori Tohnishi",
+          "Tetsuyoshi Nishimatsu",
+          "Kazuhiko Motoba",
+          "Takashi Hirooka",
+          "Akira Seo"
+        ],
+        "title": "Development of a Novel Insecticide, Flubendiamide",
+        "journal": "Journal of Pesticide Science",
+        "doi": "10.1584/jpestics.j10-06",
+        "type": "journal-article",
+        "score": 66.68605
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Kenta Kato",
+          "Shigeki Kiyonaka",
+          "Yuichi Sawaguchi",
+          "Masanori Tohnishi",
+          "Takao Masaki",
+          "Noriaki Yasokawa",
+          "Yusuke Mizuno",
+          "Emiko Mori"
+        ],
+        "title": "Molecular Characterization of Flubendiamide Sensitivity in the Lepidopterous Ryanodine Receptor Ca 2+ Release Channel",
+        "journal": "Biochemistry",
+        "doi": "10.1021/bi900866s",
+        "type": "journal-article",
+        "score": 65.58529
+      },
+      {
+        "year": 2005,
+        "authors": [
+          "Masanori Tohnishi",
+          "Hayami Nakao",
+          "Takashi Furuya",
+          "Akira Seo",
+          "Hiroki Kodama",
+          "Kenji Tsubata",
+          "Shinsuke Fujioka",
+          "Hiroshi Kodama"
+        ],
+        "title": "Flubendiamide, a Novel Insecticide Highly Active against Lepidopterous Insect Pests",
+        "journal": "Journal of Pesticide Science",
+        "doi": "10.1584/jpestics.30.354",
+        "type": "journal-article",
+        "score": 61.80265
+      }
+    ]
+  },
+  {
+    "code": "F14",
+    "orig_authors": "Guo L, Liang P, Zhou X, Gao X",
+    "orig_title": "Mutation in the ryanodine receptor of *Plutella xylostella* confers resistance to chlorantraniliprole",
+    "candidates": [
+      {
+        "year": 2014,
+        "authors": [
+          "Lei Guo",
+          "Pei Liang",
+          "Xuguo Zhou",
+          "Xiwu Gao"
+        ],
+        "title": "Novel mutations and mutation combinations of ryanodine receptor in a chlorantraniliprole resistant population of Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep06924",
+        "type": "journal-article",
+        "score": 76.755615
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Xiuxia Li",
+          "Lei Guo",
+          "Xuguo Zhou",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "miRNAs regulated overexpression of ryanodine receptor is involved in chlorantraniliprole resistance in Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep14095",
+        "type": "journal-article",
+        "score": 76.02255
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "Lei Guo",
+          "Yi Wang",
+          "Xuguo Zhou",
+          "Zhenyu Li",
+          "Shangzhong Liu",
+          "Liang Pei",
+          "Xiwu Gao"
+        ],
+        "title": "Functional analysis of a point mutation in the ryanodine receptor of Plutella xylostella (L.) associated with resistance to chlorantraniliprole",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.3651",
+        "type": "journal-article",
+        "score": 63.93741
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Jinqiong Shan",
+          "Bin Zhu",
+          "Shaohua Gu",
+          "Pei Liang",
+          "Xiwu Gao"
+        ],
+        "title": "Development of resistance to chlorantraniliprole represses sex pheromone responses in male Plutella xylostella (L.)",
+        "journal": "Entomologia Generalis",
+        "doi": "10.1127/entomologia/2021/1359",
+        "type": "journal-article",
+        "score": 57.8273
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Xiuxia Li",
+          "Ying Liu",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Global identification of microRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep40713",
+        "type": "journal-article",
+        "score": 50.95234
+      }
+    ]
+  },
+  {
+    "code": "F15",
+    "orig_authors": "Steinbach D, Gutbrod O, Lüemmen P, Matthiesen S, Schorn C, Nauen R",
+    "orig_title": "Geographic spread of diamide resistance in diamondback moth and its association with ryanodine receptor mutations",
+    "candidates": [
+      {
+        "year": 2015,
+        "authors": [
+          "Denise Steinbach",
+          "Oliver Gutbrod",
+          "Peter Lümmen",
+          "Svend Matthiesen",
+          "Corinna Schorn",
+          "Ralf Nauen"
+        ],
+        "title": "Geographic spread, genetics and functional characteristics of ryanodine receptor based target-site resistance to diamide insecticides in diamondback moth, Plutella xylostella",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2015.05.001",
+        "type": "journal-article",
+        "score": 103.80759
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Ralf Nauen"
+        ],
+        "title": "Mechanisms of diamide insecticide resistance with special reference to ryanodine receptor target-site mutations",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.93080",
+        "type": "proceedings-article",
+        "score": 61.10543
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Bartlomiej J. Troczka",
+          "Alan J. Williams",
+          "Martin S. Williamson",
+          "Linda M. Field",
+          "Peter Lüemmen",
+          "T.G. Emyr Davies"
+        ],
+        "title": "Stable expression and functional characterisation of the diamondback moth ryanodine receptor G4946E variant conferring resistance to diamide insecticides",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep14680",
+        "type": "journal-article",
+        "score": 60.068657
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Bartek Troczka",
+          "Christoph T. Zimmer",
+          "Jan Elias",
+          "Corinna Schorn",
+          "Chris Bass",
+          "T.G. Emyr Davies",
+          "Linda M. Field",
+          "Martin S. Williamson"
+        ],
+        "title": "Resistance to diamide insecticides in diamondback moth, Plutella xylostella (Lepidoptera: Plutellidae) is associated with a mutation in the membrane-spanning domain of the ryanodine receptor",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2012.09.001",
+        "type": "journal-article",
+        "score": 56.36103
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Ewan Richardson",
+          "Rafael A Homem",
+          "Bartlomiej J Troczka",
+          "Christopher H George",
+          "Ulrich Ebbinghaus‐Kintscher",
+          "Martin S Williamson",
+          "Ralf Nauen",
+          "TG Emyr Davies"
+        ],
+        "title": "Diamide insecticide resistance in transgenic Drosophila and Sf9‐cells expressing a full‐length diamondback moth ryanodine receptor carrying an I4790M mutation",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.6730",
+        "type": "journal-article",
+        "score": 49.228657
+      }
+    ]
+  },
+  {
+    "code": "F16",
+    "orig_authors": "Qi S, Casida JE",
+    "orig_title": "Species differences in chlorantraniliprole and flubendiamide responses at the ryanodine receptor",
+    "candidates": [
+      {
+        "year": 2013,
+        "authors": [
+          "Suzhen Qi",
+          "John E. Casida"
+        ],
+        "title": "Species differences in chlorantraniliprole and flubendiamide insecticide binding sites in the ryanodine receptor",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2013.09.004",
+        "type": "journal-article",
+        "score": 69.92003
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "André K. Isaacs",
+          "Suzhen Qi",
+          "Richmond Sarpong",
+          "John E. Casida"
+        ],
+        "title": "Insect Ryanodine Receptor: Distinct but Coupled Insecticide Binding Sites for [ N -C 3 H 3 ]Chlorantraniliprole, Flubendiamide, and [ 3 H]Ryanodine",
+        "journal": "Chemical Research in Toxicology",
+        "doi": "10.1021/tx300326m",
+        "type": "journal-article",
+        "score": 50.722813
+      },
+      {
+        "year": 2018,
+        "authors": [
+          "Kim M Truong",
+          "Isaac N Pessah"
+        ],
+        "title": "Comparison of Chlorantraniliprole and Flubendiamide Activity Toward Wild-Type and Malignant Hyperthermia-Susceptible Ryanodine Receptors and Heat Stress Intolerance",
+        "journal": "Toxicological Sciences",
+        "doi": "10.1093/toxsci/kfy256",
+        "type": "journal-article",
+        "score": 34.03968
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Qiang Li",
+          "Wujia Mo",
+          "Zhongxian Lu",
+          "Farman Ullah",
+          "Xusong Zheng",
+          "Hongxing Xu",
+          "Yanhui Lu"
+        ],
+        "title": "Csu-miR-375 and Csu-miR-11631 regulate ryanodine receptor to induce chlorantraniliprole resistance in Chilo suppressalis",
+        "journal": "Entomologia Generalis",
+        "doi": "10.1127/entomologia/2024/2807",
+        "type": "journal-article",
+        "score": 32.3767
+      },
+      {
+        "year": 2008,
+        "authors": [
+          "Pierluigi Caboni",
+          "Giorgia Sarais",
+          "Alberto Angioni",
+          "Simona Vargiu",
+          "Daniela Pagnozzi",
+          "Paolo Cabras",
+          "John E. Casida"
+        ],
+        "title": "Liquid Chromatography−Tandem Mass Spectrometric Ion-Switching Determination of Chlorantraniliprole and Flubendiamide in Fruits and Vegetables",
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "doi": "10.1021/jf8014816",
+        "type": "journal-article",
+        "score": 30.908024
+      }
+    ]
+  },
+  {
+    "code": "F18",
+    "orig_authors": "Yao R, Zhao DD, Zhang S, Zhou LQ, Wang X, Gao CF, Wu SF",
+    "orig_title": "Monitoring and frequency of RyR mutations in field populations of diamondback moth",
+    "candidates": [
+      {
+        "year": 2021,
+        "authors": [
+          "Jing Wang",
+          "Xiaobin Zheng",
+          "Jiangjiang Yuan",
+          "Shuaiyu Wang",
+          "Baoyun Xu",
+          "Shaoli Wang",
+          "Youjun Zhang",
+          "Qingjun Wu"
+        ],
+        "title": "Insecticide Resistance Monitoring of the Diamondback Moth (Lepidoptera: Plutellidae) Populations in China",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/toab027",
+        "type": "journal-article",
+        "score": 40.435753
+      },
+      {
+        "year": 2011,
+        "authors": [
+          "Lijuan Zhou",
+          "Jiguang Huang",
+          "Hanhong Xu"
+        ],
+        "title": "Monitoring resistance of field populations of diamondback moth Plutella xylostella L. (Lepidoptera: Yponomeutidae) to five insecticides in South China: A ten-year case study",
+        "journal": "Crop Protection",
+        "doi": "10.1016/j.cropro.2010.10.006",
+        "type": "journal-article",
+        "score": 37.98924
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Qing‐Jun Wu",
+          "Shu‐Fa Zhang",
+          "Jin‐Liang Yao",
+          "Bao‐Yun Xu",
+          "Shao‐Li Wang",
+          "You‐Jun Zhang"
+        ],
+        "title": "Management of diamondback moth, Plutella xylostella (Lepidoptera: Plutellidae) by mating disruption",
+        "journal": "Insect Science",
+        "doi": "10.1111/j.1744-7917.2011.01497.x",
+        "type": "journal-article",
+        "score": 36.476017
+      },
+      {
+        "year": 2024,
+        "authors": [
+          "Menglun Wang",
+          "Jialin Wang",
+          "Pei Liang",
+          "Kongming Wu"
+        ],
+        "title": "Nutritional Status, Sex, and Ambient Temperature Modulate the Wingbeat Frequency of the Diamondback Moth Plutella xylostella",
+        "journal": "Insects",
+        "doi": "10.3390/insects15020138",
+        "type": "journal-article",
+        "score": 35.310432
+      },
+      {
+        "year": 2007,
+        "authors": [
+          "L. Wang",
+          "X.‐F. Li",
+          "J. Zhang",
+          "J.‐Z. Zhao",
+          "Q.‐J. Wu",
+          "B. Xu",
+          "Y.‐J. Zhang"
+        ],
+        "title": "Monitoring of resistance for the diamondback moth to Bacillus thuringiensis Cry1Ac and Cry1Ba toxins and a Bt commercial formulation",
+        "journal": "Journal of Applied Entomology",
+        "doi": "10.1111/j.1439-0418.2007.01187.x",
+        "type": "journal-article",
+        "score": 35.125114
+      }
+    ]
+  },
+  {
+    "code": "F19",
+    "orig_authors": "Sun X, Wang C, et al",
+    "orig_title": "Selection, inheritance and cross-resistance of chlorantraniliprole resistance in *Plutella xylostella*",
+    "candidates": [
+      {
+        "year": 2021,
+        "authors": [
+          "Jinqiong Shan",
+          "Bin Zhu",
+          "Shaohua Gu",
+          "Pei Liang",
+          "Xiwu Gao"
+        ],
+        "title": "Development of resistance to chlorantraniliprole represses sex pheromone responses in male Plutella xylostella (L.)",
+        "journal": "Entomologia Generalis",
+        "doi": "10.1127/entomologia/2021/1359",
+        "type": "journal-article",
+        "score": 55.152706
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Xia Liu",
+          "Hong-Yan Wang",
+          "Yu-Bo Ning",
+          "Kang Qiao",
+          "Kai-Yun Wang"
+        ],
+        "title": "Resistance Selection and Characterization of Chlorantraniliprole Resistance in Plutella xylostella (Lepidoptera: Plutellidae)",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/tov098",
+        "type": "journal-article",
+        "score": 53.087345
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Fei Yin",
+          "Qichun Chen",
+          "Tiancheng Ge",
+          "Jianxiong Wang",
+          "Xiao Yong",
+          "Zhengke Peng",
+          "Myron  P. Zalucki",
+          "zhenyu Li"
+        ],
+        "title": "PxMBF2 regulating PxGST2 up-expression involved in the resistance of Plutella xylostella to chlorantraniliprole",
+        "journal": "",
+        "doi": "10.2139/ssrn.5473133",
+        "type": "posted-content",
+        "score": 48.791595
+      },
+      {
+        "year": 2018,
+        "authors": [
+          "Chunyan Yin",
+          "Ran Wang",
+          "Chen Luo",
+          "Kang Zhao",
+          "Qiongyou Wu",
+          "Zhenyu Wang",
+          "Guangfu Yang"
+        ],
+        "title": "Monitoring, Cross-Resistance, Inheritance, and Synergism of Plutella xylostella (Lepidoptera: Plutellidae) Resistance to Pyridalyl in China",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1093/jee/toy334",
+        "type": "journal-article",
+        "score": 48.617313
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Xiuxia Li",
+          "Ying Liu",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Global identification of microRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep40713",
+        "type": "journal-article",
+        "score": 45.61007
+      }
+    ]
+  },
+  {
+    "code": "F20",
+    "orig_authors": "Liu X, Ning Y, Wang H, Wang K",
+    "orig_title": "Cross-resistance, fitness cost and mechanism of chlorantraniliprole resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2020,
+        "authors": [
+          "Ran Wang",
+          "Cheng Qu",
+          "Zhenyu Wang",
+          "Guangfu Yang"
+        ],
+        "title": "Cross-resistance, biochemical mechanism and fitness costs of laboratory-selected resistance to pyridalyl in diamondback moth, Plutella xylostella",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2019.10.008",
+        "type": "journal-article",
+        "score": 58.256107
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Xiuxia Li",
+          "Ying Liu",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Global identification of microRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep40713",
+        "type": "journal-article",
+        "score": 47.32985
+      },
+      {
+        "year": null,
+        "authors": [
+          "",
+          "Leyun Wang"
+        ],
+        "title": "Effects of Temperature and Insecticide Resistance Status on the Diamondback Moth (Plutella xylostella) and its Endo-larval Parasitoid, Diadegma semiclausum",
+        "journal": "",
+        "doi": "10.14264/81778b4",
+        "type": "dissertation",
+        "score": 43.7647
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Xingliang Wang",
+          "Shem K Khakame",
+          "Chao Ye",
+          "Yihua Yang",
+          "Yidong Wu"
+        ],
+        "title": "Characterisation of field‐evolved resistance to chlorantraniliprole in the diamondback moth, Plutella xylostella , from China",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.3422",
+        "type": "journal-article",
+        "score": 43.66567
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Xia Liu",
+          "Yubo Ning",
+          "Hongyan Wang",
+          "Kaiyun Wang"
+        ],
+        "title": "Cross‐resistance, mode of inheritance, synergism, and fitness effects of cyantraniliprole resistance in P lutella xylostella",
+        "journal": "Entomologia Experimentalis et Applicata",
+        "doi": "10.1111/eea.12361",
+        "type": "journal-article",
+        "score": 43.40184
+      }
+    ]
+  },
+  {
+    "code": "F21",
+    "orig_authors": "Zuo Y, Wang H, Xu Y, Huang J, Wu S, Wu Y, Yang Y",
+    "orig_title": "CRISPR/Cas9-mediated knockout or knockin analysis of RyR resistance alleles in diamondback moth",
+    "candidates": [
+      {
+        "year": 2023,
+        "authors": [
+          "Muhammad Asad",
+          "Jiaying Liao",
+          "Jing Chen",
+          "Faisal Munir",
+          "Guang Yang"
+        ],
+        "title": "CRISPR/Cas9-mediated knockout of ovary-related serine protease gene induces a recessive female sterility in the diamondback moth",
+        "journal": "",
+        "doi": "10.21203/rs.3.rs-3081746/v1",
+        "type": "posted-content",
+        "score": 56.624916
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Yayun Zuo",
+          "Hui Wang",
+          "Yanjun Xu",
+          "Jianlei Huang",
+          "Shuwen Wu",
+          "Yidong Wu",
+          "Yihua Yang"
+        ],
+        "title": "CRISPR/Cas9 mediated G4946E substitution in the ryanodine receptor of Spodoptera exigua confers high levels of resistance to diamide insecticides",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2017.09.005",
+        "type": "journal-article",
+        "score": 53.659103
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Xingliang Wang",
+          "Xiaowei Cao",
+          "Dong Jiang",
+          "Yihua Yang",
+          "Yidong Wu"
+        ],
+        "title": "CRISPR/Cas9 mediated ryanodine receptor I4790M knockin confers unequal resistance to diamides in Plutella xylostella",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2020.103453",
+        "type": "journal-article",
+        "score": 52.108047
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Yuping Huang",
+          "Yazhou Chen",
+          "Baosheng Zeng",
+          "Yajun Wang",
+          "Anthony A. James",
+          "Geoff M. Gurr",
+          "Guang Yang",
+          "Xijian Lin"
+        ],
+        "title": "CRISPR/Cas9 mediated knockout of the abdominal-A homeotic gene in the global pest, diamondback moth (Plutella xylostella)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2016.06.004",
+        "type": "journal-article",
+        "score": 51.675663
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Guanyu Chen",
+          "Yuezong Xu",
+          "Pengxu Wang",
+          "Maolin Lv",
+          "Wentao Zhu",
+          "Chunrong Yang",
+          "Jianguo Su"
+        ],
+        "title": "Enhanced resistance to GCRV via CRISPR/Cas9-mediated SOCS3a/3b knockout in grass carp",
+        "journal": "",
+        "doi": "10.2139/ssrn.5819307",
+        "type": "posted-content",
+        "score": 50.80382
+      }
+    ]
+  },
+  {
+    "code": "F22",
+    "orig_authors": "Douris V, Papapostolou KM, Ilias A, Roditakis E, Kounadi S, Riga M, Nauen R, Vontas J",
+    "orig_title": "Investigation of diamide-resistance mutations by genome editing and toxicological assays",
+    "candidates": [
+      {
+        "year": 2017,
+        "authors": [
+          "Vassilis Douris",
+          "Kyriaki-Maria Papapostolou",
+          "Aris Ilias",
+          "Emmanuel Roditakis",
+          "Styliani Kounadi",
+          "Maria Riga",
+          "Ralf Nauen",
+          "John Vontas"
+        ],
+        "title": "Investigation of the contribution of RyR target-site mutations in diamide resistance by CRISPR/Cas9 genome modification in Drosophila",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2017.06.013",
+        "type": "journal-article",
+        "score": 108.66046
+      },
+      {
+        "year": 2019,
+        "authors": [
+          "Dimitra Tsakireli",
+          "Maria Riga",
+          "Stella Kounadi",
+          "Vassilis Douris",
+          "John Vontas"
+        ],
+        "title": "Functional characterization of CYP6A51, a cytochrome P450 associated with pyrethroid resistance in the Mediterranean fruit fly Ceratitis capitata",
+        "journal": "Pesticide Biochemistry and Physiology",
+        "doi": "10.1016/j.pestbp.2019.03.022",
+        "type": "journal-article",
+        "score": 49.990784
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Emmanouil Roditakis",
+          "Marianna Stavrakaki",
+          "Aris Ilias",
+          "Panagiotis Ioannidis",
+          "John Vontas"
+        ],
+        "title": "Investigating Resistance to Emamectin Benzoate in the Tomato Borer Tuta Absoluta",
+        "journal": "",
+        "doi": "10.21203/rs.3.rs-816356/v1",
+        "type": "posted-content",
+        "score": 48.98804
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Maria Riga",
+          "Aris Ilias",
+          "John Vontas",
+          "Vassilis Douris"
+        ],
+        "title": "Co-Expression of a Homologous Cytochrome P450 Reductase Is Required for In Vivo Validation of the Tetranychus urticae CYP392A16-Based Abamectin Resistance in Drosophila",
+        "journal": "Insects",
+        "doi": "10.3390/insects11120829",
+        "type": "journal-article",
+        "score": 48.44905
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Emmanouil Roditakis",
+          "Denise Steinbach",
+          "Gerald Moritz",
+          "Emmanouil Vasakis",
+          "Marianna Stavrakaki",
+          "Aris Ilias",
+          "Lidia García-Vidal",
+          "María del Rosario Martínez-Aguirre"
+        ],
+        "title": "Ryanodine receptor point mutations confer diamide insecticide resistance in tomato leafminer, Tuta absoluta (Lepidoptera: Gelechiidae)",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2016.11.003",
+        "type": "journal-article",
+        "score": 46.965874
+      }
+    ]
+  },
+  {
+    "code": "F23",
+    "orig_authors": "",
+    "orig_title": "Contribution of seven ryanodine receptor mutations to diamide resistance in *Plutella xylostella*",
+    "candidates": [
+      {
+        "year": 2016,
+        "authors": [
+          "Ewan Richardson"
+        ],
+        "title": "Diamide resistance conferrred by target-site mutations in the ryanodine receptor of Plutella xylostella",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.112459",
+        "type": "proceedings-article",
+        "score": 69.67523
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bartlomiej J. Troczka",
+          "Martin S. Williamson",
+          "Linda M. Field",
+          "T.G.Emyr Davies"
+        ],
+        "title": "Rapid selection for resistance to diamide insecticides in Plutella xylostella via specific amino acid polymorphisms in the ryanodine receptor",
+        "journal": "NeuroToxicology",
+        "doi": "10.1016/j.neuro.2016.05.012",
+        "type": "journal-article",
+        "score": 51.058865
+      },
+      {
+        "year": 2021,
+        "authors": [
+          "Dong Jiang",
+          "Cheng Qian",
+          "Danhui Wang",
+          "Falong Wang",
+          "Shan Zhao",
+          "Yihua Yang",
+          "Simon W Baxter",
+          "Xingliang Wang"
+        ],
+        "title": "Varying contributions of three ryanodine receptor point mutations to diamide insecticide resistance in Plutella xylostella",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.6534",
+        "type": "journal-article",
+        "score": 50.422592
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Akiya Jouraku",
+          "Seigo Kuwazaki",
+          "Kazuhisa Miyamoto",
+          "Makoto Uchiyama",
+          "Tatsuki Kurokawa",
+          "Emiko Mori",
+          "Masayuki X. Mori",
+          "Yasuo Mori"
+        ],
+        "title": "Ryanodine receptor mutations (G4946E and I4790K) differentially responsible for diamide insecticide resistance in diamondback moth, Plutella xylostella L.",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2019.103308",
+        "type": "journal-article",
+        "score": 50.074364
+      },
+      {
+        "year": 2016,
+        "authors": [
+          "Jan Elias"
+        ],
+        "title": "Diamide resistance management in the diamondback moth, Plutella xylostella",
+        "journal": "2016 International Congress of Entomology",
+        "doi": "10.1603/ice.2016.105154",
+        "type": "proceedings-article",
+        "score": 47.89026
+      }
+    ]
+  },
+  {
+    "code": "F24",
+    "orig_authors": "",
+    "orig_title": "Contribution of three ryanodine receptor mutations to chlorantraniliprole and cyantraniliprole resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2017,
+        "authors": [
+          "L. Lin",
+          "Z. Yuchi"
+        ],
+        "title": "Crystal structure of diamondback moth ryanodine receptor N-terminal domain",
+        "journal": "Worldwide Protein Data Bank",
+        "doi": "10.2210/pdb5y9v/pdb",
+        "type": "dataset",
+        "score": 43.533813
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Thangaraj Sindhu",
+          "Thiruvengadam Venkatesan",
+          "Gandhi R. Gracy",
+          "Sushil Kumar Jalali",
+          "Anil Rai"
+        ],
+        "title": "Exploring the resistance-developing mutations on Ryanodine receptor in diamondback moth and binding mechanism of its activators using computational study",
+        "journal": "Biochemical Engineering Journal",
+        "doi": "10.1016/j.bej.2017.01.013",
+        "type": "journal-article",
+        "score": 42.727207
+      },
+      {
+        "year": 2019,
+        "authors": [
+          "Y. Zhou",
+          "L. Lin",
+          "Z. Yuchi"
+        ],
+        "title": "Crystal structure of diamondback moth ryanodine receptor SPRY2 domain",
+        "journal": "Worldwide Protein Data Bank",
+        "doi": "10.2210/pdb6kim/pdb",
+        "type": "dataset",
+        "score": 42.642838
+      },
+      {
+        "year": 2020,
+        "authors": [
+          "Y. Zhou",
+          "L. Lin",
+          "Z. Yuchi"
+        ],
+        "title": "The crystal structure of diamondback moth ryanodine receptor SPRY1 domain",
+        "journal": "Worldwide Protein Data Bank",
+        "doi": "10.2210/pdb6lt9/pdb",
+        "type": "dataset",
+        "score": 41.969265
+      },
+      {
+        "year": 2019,
+        "authors": [
+          "T. Xu",
+          "L. Lin",
+          "Z. Yuchi"
+        ],
+        "title": "Crystal structure of diamondback moth ryanodine receptor phosphorylation domain(2836-3050)",
+        "journal": "Worldwide Protein Data Bank",
+        "doi": "10.2210/pdb6j6o/pdb",
+        "type": "dataset",
+        "score": 41.441364
+      }
+    ]
+  },
+  {
+    "code": "F25",
+    "orig_authors": "Lin Q, Jin F, Hu Z, Chen H, Yin F, Li Z, Dong X, Zhang D, Ren S, Feng X",
+    "orig_title": "Transcriptomic and genetic analysis of chlorantraniliprole resistance in diamondback moth",
+    "candidates": [
+      {
+        "year": 2013,
+        "authors": [
+          "Qingsheng Lin",
+          "Fengliang Jin",
+          "Zhendi Hu",
+          "Huanyu Chen",
+          "Fei Yin",
+          "Zhenyu Li",
+          "Xiaolin Dong",
+          "Deyong Zhang"
+        ],
+        "title": "Transcriptome Analysis of Chlorantraniliprole Resistance Development in the Diamondback Moth Plutella xylostella",
+        "journal": "PLoS ONE",
+        "doi": "10.1371/journal.pone.0072314",
+        "type": "journal-article",
+        "score": 80.05747
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Zhen-di HU",
+          "Xia FENG",
+          "Qing-sheng LIN",
+          "Huan-yu CHEN",
+          "Zhen-yu LI",
+          "Fei YIN",
+          "Pei LIANG",
+          "Xi-wu GAO"
+        ],
+        "title": "Biochemical Mechanism of Chlorantraniliprole Resistance in the Diamondback Moth, Plutella xylostella Linnaeus",
+        "journal": "Journal of Integrative Agriculture",
+        "doi": "10.1016/s2095-3119(14)60748-6",
+        "type": "journal-article",
+        "score": 56.31159
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Z. Hu",
+          "Q. Lin",
+          "H. Chen",
+          "Z. Li",
+          "F. Yin",
+          "X. Feng"
+        ],
+        "title": "Identification of a novel cytochrome P450 gene, CYP321E1 from the diamondback moth, Plutella xylostella (L.) and RNA interference to evaluate its role in chlorantraniliprole resistance",
+        "journal": "Bulletin of Entomological Research",
+        "doi": "10.1017/s0007485314000510",
+        "type": "journal-article",
+        "score": 52.478844
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Zhenyu Li",
+          "Myron P. Zalucki",
+          "Huali Bao",
+          "Huanyu Chen",
+          "Zhendi Hu",
+          "Deyong Zhang",
+          "Qingsheng Lin",
+          "Fei Yin"
+        ],
+        "title": "Population Dynamics and “Outbreaks” of Diamondback Moth (Lepidoptera: Plutellidae) in Guangdong Province, China: Climate or Failure of Management?",
+        "journal": "Journal of Economic Entomology",
+        "doi": "10.1603/ec11384",
+        "type": "journal-article",
+        "score": 42.198303
+      },
+      {
+        "year": 2017,
+        "authors": [
+          "Bin Zhu",
+          "Xiuxia Li",
+          "Ying Liu",
+          "Xiwu Gao",
+          "Pei Liang"
+        ],
+        "title": "Global identification of microRNAs associated with chlorantraniliprole resistance in diamondback moth Plutella xylostella (L.)",
+        "journal": "Scientific Reports",
+        "doi": "10.1038/srep40713",
+        "type": "journal-article",
+        "score": 41.685642
+      }
+    ]
+  },
+  {
+    "code": "G08",
+    "orig_authors": "Verlinden H, Vleugels R, Marchal E, Badisco L, Tobback J, Pflüger HJ, Blenau W, Vanden Broeck J",
+    "orig_title": "The role of octopamine in insect nervous-system physiology",
+    "candidates": [
+      {
+        "year": 2010,
+        "authors": [
+          "Heleen Verlinden",
+          "Rut Vleugels",
+          "Elisabeth Marchal",
+          "Liesbeth Badisco",
+          "Julie Tobback",
+          "Hans-Joachim Pflüger",
+          "Wolfgang Blenau",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "The cloning, phylogenetic relationship and distribution pattern of two new putative GPCR-type octopamine receptors in the desert locust (Schistocerca gregaria)",
+        "journal": "Journal of Insect Physiology",
+        "doi": "10.1016/j.jinsphys.2010.03.003",
+        "type": "journal-article",
+        "score": 107.29572
+      },
+      {
+        "year": 2010,
+        "authors": [
+          "Heleen Verlinden",
+          "Rut Vleugels",
+          "Elisabeth Marchal",
+          "Liesbeth Badisco",
+          "Hans-Joachim Pflüger",
+          "Wolfgang Blenau",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "The role of octopamine in locusts and other arthropods",
+        "journal": "Journal of Insect Physiology",
+        "doi": "10.1016/j.jinsphys.2010.05.018",
+        "type": "journal-article",
+        "score": 106.894485
+      },
+      {
+        "year": 2011,
+        "authors": [
+          "Elisabeth Marchal",
+          "Liesbeth Badisco",
+          "Heleen Verlinden",
+          "Tim Vandersmissen",
+          "Sofie Van Soest",
+          "Pieter Van Wielendaele",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "Role of the Halloween genes, Spook and Phantom in ecdysteroidogenesis in the desert locust, Schistocerca gregaria",
+        "journal": "Journal of Insect Physiology",
+        "doi": "10.1016/j.jinsphys.2011.05.009",
+        "type": "journal-article",
+        "score": 66.34025
+      },
+      {
+        "year": 2012,
+        "authors": [
+          "Elisabeth Marchal",
+          "Heleen Verlinden",
+          "Liesbeth Badisco",
+          "Pieter Van Wielendaele",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "RNAi-mediated knockdown of Shade negatively affects ecdysone-20-hydroxylation in the desert locust, Schistocerca gregaria",
+        "journal": "Journal of Insect Physiology",
+        "doi": "10.1016/j.jinsphys.2012.03.013",
+        "type": "journal-article",
+        "score": 64.65668
+      },
+      {
+        "year": 2011,
+        "authors": [
+          "Liesbeth Badisco",
+          "Elisabeth Marchal",
+          "Pieter Van Wielendaele",
+          "Heleen Verlinden",
+          "Rut Vleugels",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "RNA interference of insulin-related peptide and neuroparsins affects vitellogenesis in the desert locust Schistocerca gregaria",
+        "journal": "Peptides",
+        "doi": "10.1016/j.peptides.2010.11.008",
+        "type": "journal-article",
+        "score": 62.83336
+      }
+    ]
+  },
+  {
+    "code": "G10",
+    "orig_authors": "Gross AD, Temeyer KB, Day TA, Pérez de León AA, Kimber MJ, Coats JR",
+    "orig_title": "Interaction of plant essential oils and octopamine receptors in arthropods",
+    "candidates": [
+      {
+        "year": 2017,
+        "authors": [
+          "Aaron D. Gross",
+          "Kevin B. Temeyer",
+          "Tim A. Day",
+          "Adalberto A. Pérez de León",
+          "Michael J. Kimber",
+          "Joel R. Coats"
+        ],
+        "title": "Interaction of plant essential oil terpenoids with the southern cattle tick tyramine receptor: A potential biopesticide target",
+        "journal": "Chemico-Biological Interactions",
+        "doi": "10.1016/j.cbi.2016.12.009",
+        "type": "journal-article",
+        "score": 67.48699
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Aaron D. Gross",
+          "Kevin B. Temeyer",
+          "Tim A. Day",
+          "Adalberto A. Pérez de León",
+          "Michael J. Kimber",
+          "Joel R. Coats"
+        ],
+        "title": "Pharmacological characterization of a tyramine receptor from the southern cattle tick, Rhipicephalus (Boophilus) microplus",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2015.04.008",
+        "type": "journal-article",
+        "score": 53.408897
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Aaron D. Gross",
+          "Michael J. Kimber",
+          "Tim A. Day",
+          "Paula Ribeiro",
+          "Joel R. Coats"
+        ],
+        "title": "Investigating the Effect of Plant Essential Oils against the American Cockroach Octopamine Receptor (Pa oa1) Expressed in Yeast",
+        "journal": "ACS Symposium Series",
+        "doi": "10.1021/bk-2014-1172.ch009",
+        "type": "book-chapter",
+        "score": 52.520542
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Aaron D. Gross",
+          "Michael J. Kimber",
+          "Joel R. Coats"
+        ],
+        "title": "G-Protein-Coupled Receptors (GPCRs) as Biopesticide Targets: A Focus on Octopamine and Tyramine Receptors",
+        "journal": "ACS Symposium Series",
+        "doi": "10.1021/bk-2014-1172.ch004",
+        "type": "book-chapter",
+        "score": 43.28588
+      },
+      {
+        "year": 2024,
+        "authors": [
+          "Kevin B. Temeyer",
+          "Kristie G. Schlechte",
+          "Joel R. Coats",
+          "Charles L. Cantrell",
+          "Rodrigo Rosario-Cruz",
+          "Kimberly H. Lohmeyer",
+          "Adalberto A. Pérez de León",
+          "Andrew Y. Li"
+        ],
+        "title": "In Vitro Evaluation of Essential Oils and Saturated Fatty Acids for Repellency against the Old-World Sand Fly, Phlebotomus papatasi (Scopoli) (Diptera: Psychodidae)",
+        "journal": "Insects",
+        "doi": "10.3390/insects15030155",
+        "type": "journal-article",
+        "score": 42.900272
+      }
+    ]
+  },
+  {
+    "code": "G13",
+    "orig_authors": "Hollingworth RM, Lund AE",
+    "orig_title": "Biological and neurotoxic actions of formamidine pesticides",
+    "candidates": [
+      {
+        "year": 1982,
+        "authors": [
+          "R.M. HOLLINGWORTH",
+          "A.E. LUND"
+        ],
+        "title": "Biological and Neurotoxic Effects of Amidine Pesticides",
+        "journal": "Insecticide Mode of Action",
+        "doi": "10.1016/b978-0-12-177120-1.50012-6",
+        "type": "book-chapter",
+        "score": 51.08091
+      },
+      {
+        "year": 1979,
+        "authors": [
+          "Albert E. Lund",
+          "Robert M. Hollingworth",
+          "George K. W. Yim"
+        ],
+        "title": "The Comparative Neurotoxicity of Formamidine Pesticides",
+        "journal": "Neurotoxicology of Insecticides and Pheromones",
+        "doi": "10.1007/978-1-4684-0970-3_7",
+        "type": "book-chapter",
+        "score": 43.97435
+      },
+      {
+        "year": 1980,
+        "authors": [
+          "Robert M. Hollingworth",
+          "Larry L. Murdock"
+        ],
+        "title": "Formamidine Pesticides: Octopamine-Like Actions in a Firefly",
+        "journal": "Science",
+        "doi": "10.1126/science.208.4439.74",
+        "type": "journal-article",
+        "score": 43.846786
+      },
+      {
+        "year": 1976,
+        "authors": [
+          "R. M. Hollingworth"
+        ],
+        "title": "Chemistry, Biological Activity, and Uses of Formamidine Pesticides",
+        "journal": "Environmental Health Perspectives",
+        "doi": "10.2307/3428363",
+        "type": "journal-article",
+        "score": 42.672478
+      },
+      {
+        "year": 1976,
+        "authors": [
+          "R M Hollingworth"
+        ],
+        "title": "Chemistry, biological activity, and uses of formamidine pesticides.",
+        "journal": "Environmental Health Perspectives",
+        "doi": "10.1289/ehp.761457",
+        "type": "journal-article",
+        "score": 40.47988
+      }
+    ]
+  },
+  {
+    "code": "G14",
+    "orig_authors": "Kita T, Hayashi T, Ohtani T, Takao H, Takasu H, Liu G, Ohta H, Ozoe Y",
+    "orig_title": "Amitraz and chlordimeform actions on insect octopamine/tyramine receptors",
+    "candidates": [
+      {
+        "year": 2016,
+        "authors": [
+          "Tomo Kita",
+          "Takeshi Hayashi",
+          "Tomohiro Ohtani",
+          "Haruka Takao",
+          "Hiroshi Takasu",
+          "Genyan Liu",
+          "Hiroto Ohta",
+          "Fumiyo Ozoe"
+        ],
+        "title": "Amitraz and its metabolite differentially activate α ‐ and β ‐adrenergic‐like octopamine receptors",
+        "journal": "Pest Management Science",
+        "doi": "10.1002/ps.4412",
+        "type": "journal-article",
+        "score": 89.008095
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Hiroto Ohta",
+          "Yoshihisa Ozoe"
+        ],
+        "title": "Molecular Signalling, Pharmacology, and Physiology of Octopamine and Tyramine Receptors as Potential Insect Pest Control Targets",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/b978-0-12-417010-0.00002-1",
+        "type": "book-chapter",
+        "score": 60.003437
+      },
+      {
+        "year": 2009,
+        "authors": [
+          "Jia Huang",
+          "Hiroto Ohta",
+          "Noriko Inoue",
+          "Haruka Takao",
+          "Tomo Kita",
+          "Fumiyo Ozoe",
+          "Yoshihisa Ozoe"
+        ],
+        "title": "Molecular cloning and pharmacological characterization of a Bombyx mori tyramine receptor selectively coupled to intracellular calcium mobilization",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2009.10.001",
+        "type": "journal-article",
+        "score": 56.483154
+      },
+      {
+        "year": 2025,
+        "authors": [
+          "Hiroto Ohta",
+          "Takuma Yoshikawa",
+          "Kanako Mitsumasu"
+        ],
+        "title": "Octopamine and tyramine receptors as potential insect pest control targets: A Decade of progress and future directions",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/bs.aiip.2025.09.001",
+        "type": "book-chapter",
+        "score": 47.175495
+      },
+      {
+        "year": 2006,
+        "authors": [
+          "A. Ohtani",
+          "Y. Arai",
+          "F. Ozoe",
+          "H. Ohta",
+          "K. Narusuye",
+          "J. Huang",
+          "K. Enomoto",
+          "H. Kataoka"
+        ],
+        "title": "Molecular cloning and heterologous expression of an α‐adrenergic‐like octopamine receptor from the silkworm Bombyx mori",
+        "journal": "Insect Molecular Biology",
+        "doi": "10.1111/j.1365-2583.2006.00676.x",
+        "type": "journal-article",
+        "score": 46.592964
+      }
+    ]
+  },
+  {
+    "code": "G16",
+    "orig_authors": "Verlinden H, Vleugels R, Zels S, Dillen S, Lenaerts C, Crabbé K, Spit J, Vanden Broeck J",
+    "orig_title": "Receptors for neuronal or hormonal ligands as targets for the control of insect pests",
+    "candidates": [
+      {
+        "year": 2014,
+        "authors": [
+          "Heleen Verlinden",
+          "Rut Vleugels",
+          "Sven Zels",
+          "Senne Dillen",
+          "Cynthia Lenaerts",
+          "Katleen Crabbé",
+          "Jornt Spit",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "Receptors for Neuronal or Endocrine Signalling Molecules as Potential Targets for the Control of Insect Pests",
+        "journal": "Advances in Insect Physiology",
+        "doi": "10.1016/b978-0-12-417010-0.00003-3",
+        "type": "book-chapter",
+        "score": 127.006836
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Sven Zels",
+          "Senne Dillen",
+          "Katleen Crabbé",
+          "Jornt Spit",
+          "Ronald J. Nachman",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "Sulfakinin is an important regulator of digestive processes in the migratory locust, Locusta migratoria",
+        "journal": "Insect Biochemistry and Molecular Biology",
+        "doi": "10.1016/j.ibmb.2015.03.008",
+        "type": "journal-article",
+        "score": 70.45567
+      },
+      {
+        "year": 2013,
+        "authors": [
+          "Senne Dillen",
+          "Sven Zels",
+          "Heleen Verlinden",
+          "Jornt Spit",
+          "Pieter Van Wielendaele",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "Functional Characterization of the Short Neuropeptide F Receptor in the Desert Locust, Schistocerca gregaria",
+        "journal": "PLoS ONE",
+        "doi": "10.1371/journal.pone.0053604",
+        "type": "journal-article",
+        "score": 63.83528
+      },
+      {
+        "year": 2014,
+        "authors": [
+          "Sven Zels",
+          "Heleen Verlinden",
+          "Senne Dillen",
+          "Rut Vleugels",
+          "Ronald J. Nachman",
+          "Jozef Vanden Broeck"
+        ],
+        "title": "Signaling Properties and Pharmacological Analysis of Two Sulfakinin Receptors from the Red Flour Beetle, Tribolium castaneum",
+        "journal": "PLoS ONE",
+        "doi": "10.1371/journal.pone.0094502",
+        "type": "journal-article",
+        "score": 59.301083
+      },
+      {
+        "year": 2015,
+        "authors": [
+          "Els Lismont",
+          "Rut Vleugels",
+          "Elisabeth Marchal",
+          "Liesbeth Badisco",
+          "Pieter Van Wielendaele",
+          "Cynthia Lenaerts",
+          "Sven Zels",
+          "Stephen S. Tobe"
+        ],
+        "title": "Molecular cloning and characterization of the allatotropin precursor and receptor in the desert locust, Schistocerca gregaria",
+        "journal": "Frontiers in Neuroscience",
+        "doi": "10.3389/fnins.2015.00084",
+        "type": "journal-article",
+        "score": 57.99218
+      }
+    ]
+  }
+]

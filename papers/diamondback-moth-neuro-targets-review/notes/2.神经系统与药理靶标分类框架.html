@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2. 神经系统与药理靶标分类框架</title>
+    <style>
+        body {
+            font-family: "Times New Roman", SimSun, serif;
+            line-height: 1.8;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            font-size: 12pt;
+        }
+        h1 {
+            font-size: 18pt;
+            font-weight: bold;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 14pt;
+            font-weight: bold;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 12pt;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            text-align: justify;
+            margin-bottom: 12px;
+            text-indent: 2em;
+        }
+        .references {
+            margin-top: 40px;
+            border-top: 2px solid #333;
+            padding-top: 20px;
+        }
+        .references h2 {
+            font-size: 14pt;
+            margin-bottom: 15px;
+        }
+        .ref-item {
+            margin-bottom: 10px;
+            padding-left: 2em;
+            text-indent: -2em;
+            font-size: 10pt;
+        }
+        sup {
+            font-size: 0.8em;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 10pt;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f0f0f0;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h1>2. 神经系统与药理靶标分类框架</h1>
+
+<h2>2.1 分类原则与靶标组织逻辑</h2>
+
+<p>传统的杀虫剂综述通常按化学类别或商品名称组织内容,这种方式虽然便于农业应用者理解,但在阐释作用机制、抗性演化和交叉抗性风险时存在明显局限。同一神经通路往往对应多个化学类别,而按药剂分类会将共享靶位与交叉抗性机制人为拆散<sup>1,2</sup>。例如,烟碱型乙酰胆碱受体(nicotinic acetylcholine receptor, nAChR)既是新烟碱类杀虫剂的靶标,也是多杀菌素类的作用位点,但两类药剂结合的受体亚基和结合位点存在显著差异<sup>3,4</sup>。如果仅按药剂类别分别讨论,就难以系统阐释受体亚基多样性、结合位点差异以及由此导致的抗性谱差异。</p>
+
+<p>基于上述考虑,本文采用"靶标优先"而非"药剂优先"的组织逻辑,将小菜蛾神经系统相关药理靶标重构为四个功能模块:</p>
+
+<p><strong>模块 I:胆碱能兴奋性通路</strong>——包括乙酰胆碱酯酶(acetylcholinesterase, AChE)和烟碱型乙酰胆碱受体(nAChR)。该模块涵盖有机磷类、氨基甲酸酯类、新烟碱类、磺酰亚胺类以及多杀菌素类杀虫剂的作用靶标<sup>5,6</sup>。</p>
+
+<p><strong>模块 II:抑制性氯离子通路</strong>——包括GABA受体(RDL/GABA receptor)和谷氨酸门控氯离子通道(glutamate-gated chloride channel, GluCl)。该模块对应苯基吡唑类、异噁唑啉类、间-二酰胺类以及阿维菌素类杀虫剂<sup>7,8</sup>。</p>
+
+<p><strong>模块 III:膜兴奋性与胞内钙释放</strong>——包括电压门控钠通道(voltage-gated sodium channel, Na<sub>v</sub>)和兰尼碱受体(ryanodine receptor, RyR)。该模块涵盖拟除虫菊酯类、钠通道阻断剂类(sodium channel blocker insecticides, SCBI)以及邻-、间-二酰胺类杀虫剂<sup>9,10</sup>。</p>
+
+<p><strong>模块 IV:新兴生物胺受体靶标</strong>——包括酪胺受体(tyramine receptor)和章鱼胺受体(octopamine receptor)等G蛋白偶联受体(GPCR)。该模块目前尚未成为小菜蛾田间抗性的主战场,但已具备可药理学操控、可功能验证和可用于新药设计的基础条件<sup>11,12</sup>。</p>
+
+<p>这种分类方式的核心优势在于:第一,能够将共享同一靶标但属于不同化学类别的药剂置于统一框架下讨论,便于理解交叉抗性的分子基础;第二,便于整合靶标生物学、药剂作用位点、抗性突变位点和监测标记等多层次信息;第三,为评估靶标优先级、预测抗性风险和指导新靶标发现提供清晰的逻辑主线。</p>
+
+<h2>2.2 靶标优先级评估标准</h2>
+
+<p>并非所有神经系统靶标在抗性管理和新药开发中具有同等价值。为系统评估各靶标的研究优先级和应用潜力,本文提出基于五个维度的评分框架:</p>
+
+<p><strong>(1) 是否存在小菜蛾直接功能证据?</strong> 理想的靶标应具备来自小菜蛾本身的功能验证数据,包括异源表达、电生理记录、CRISPR基因编辑或RNAi敲降实验。仅依赖同源建模或跨物种类比的靶标证据强度较低<sup>13</sup>。</p>
+
+<p><strong>(2) 是否已发现稳定的靶位突变或异常剪接?</strong> 靶位抗性(target-site resistance)是理解药剂-靶标相互作用和预测抗性演化的关键。已鉴定出稳定遗传、与抗性表型显著关联且经功能验证的突变位点,表明该靶标在田间选择压力下的演化潜力和监测价值<sup>14,15</sup>。</p>
+
+<p><strong>(3) 是否能解释跨药剂类别表型?</strong> 单一靶标突变如能同时影响多个化学类别的敏感性,则提示该靶标在抗性管理中具有更高的战略意义。例如,钠通道某些位点的突变可同时赋予拟除虫菊酯和钠通道阻断剂抗性<sup>16</sup>。</p>
+
+<p><strong>(4) 是否适合作为分子监测标记?</strong> 理想的监测标记应满足:突变频率与表型抗性水平相关性强、检测方法简便、适合高通量分型、在不同地理种群中具有可比性<sup>17</sup>。</p>
+
+<p><strong>(5) 是否仍具备新药研发空间?</strong> 部分靶标虽在抗性研究中具有历史价值,但因抗性广泛分布、靶标保守性不足或化学空间已充分开发,其新药开发潜力有限。相反,新兴靶标或已知靶标的新作用位点可能提供突破性机会<sup>18</sup>。</p>
+
+<p>基于上述标准,本文将在后续章节中对各靶标模块进行系统评估,并在第6章整合形成小菜蛾神经系统药理靶标的优先级排序与监测建议。</p>
+
+<h2>2.3 小菜蛾神经系统药理靶标总图</h2>
+
+<p>图1展示了小菜蛾神经系统中已明确鉴定的药理靶标及其对应的主要杀虫剂类别。该图以神经突触和肌肉细胞为核心,整合了突触前、突触后和肌肉兴奋-收缩偶联过程中的关键靶点。</p>
+
+<p>在突触前,乙酰胆碱酯酶(AChE)负责水解突触间隙中的乙酰胆碱,终止神经信号传递,是有机磷类和氨基甲酸酯类杀虫剂的经典靶标<sup>19</sup>。在突触后膜,烟碱型乙酰胆碱受体(nAChR)介导快速兴奋性传递,是新烟碱类、磺酰亚胺类和多杀菌素类的作用位点<sup>3,4</sup>。GABA受体和谷氨酸门控氯离子通道(GluCl)则介导抑制性信号,分别对应苯基吡唑类、间-二酰胺类和阿维菌素类杀虫剂<sup>7,8</sup>。</p>
+
+<p>在神经元和肌肉细胞膜上,电压门控钠通道(Na<sub>v</sub>)控制动作电位的产生与传播,是拟除虫菊酯类和钠通道阻断剂类的共同靶标<sup>9,16</sup>。在肌肉细胞内,兰尼碱受体(RyR)位于肌质网膜上,调控胞内钙离子释放,是邻-、间-二酰胺类杀虫剂的核心靶点<sup>10,20</sup>。</p>
+
+<p>此外,酪胺受体和章鱼胺受体等生物胺GPCR广泛分布于昆虫神经系统,参与神经调质和行为调控,代表新兴的潜在靶标<sup>11,12</sup>。</p>
+
+<p>表1总结了各靶标模块对应的药剂类别、IRAC作用机制分组、小菜蛾中的直接证据类型以及证据强度等级。该表为后续章节的详细讨论提供了结构化索引。</p>
+
+<table>
+    <caption><strong>表1 小菜蛾神经系统药理靶标、对应药剂类别与证据等级</strong></caption>
+    <thead>
+        <tr>
+            <th>靶标模块</th>
+            <th>具体靶标</th>
+            <th>代表性药剂类别</th>
+            <th>IRAC分组</th>
+            <th>小菜蛾直接证据</th>
+            <th>证据等级</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">胆碱能兴奋性通路</td>
+            <td>AChE</td>
+            <td>有机磷类、氨基甲酸酯类</td>
+            <td>1A, 1B</td>
+            <td>靶位突变、结构建模</td>
+            <td>中</td>
+        </tr>
+        <tr>
+            <td>nAChR</td>
+            <td>新烟碱类、多杀菌素类</td>
+            <td>4A-E, 5</td>
+            <td>α6亚基突变/剪接、功能表达</td>
+            <td>高</td>
+        </tr>
+        <tr>
+            <td rowspan="2">抑制性氯离子通路</td>
+            <td>RDL/GABA受体</td>
+            <td>苯基吡唑类、间-二酰胺类</td>
+            <td>2B, 30</td>
+            <td>双基因鉴定、药理学分化</td>
+            <td>高</td>
+        </tr>
+        <tr>
+            <td>GluCl</td>
+            <td>阿维菌素类</td>
+            <td>6</td>
+            <td>多位点突变、剪接变体、CRISPR验证</td>
+            <td>高</td>
+        </tr>
+        <tr>
+            <td rowspan="2">膜兴奋性与钙释放</td>
+            <td>Na<sub>v</sub></td>
+            <td>拟除虫菊酯类、SCBI</td>
+            <td>3A, 22A-B</td>
+            <td>kdr突变、SCBI抗性位点</td>
+            <td>高</td>
+        </tr>
+        <tr>
+            <td>RyR</td>
+            <td>邻-、间-二酰胺类</td>
+            <td>28</td>
+            <td>多位点突变、CRISPR敲入、田间频率</td>
+            <td>极高</td>
+        </tr>
+        <tr>
+            <td>新兴GPCR靶标</td>
+            <td>酪胺/章鱼胺受体</td>
+            <td>甲脒类(参照)</td>
+            <td>19</td>
+            <td>受体克隆、药理学、CRISPR敲除</td>
+            <td>中-高</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>注:证据等级综合考虑功能验证深度、抗性关联强度和田间相关性。IRAC分组依据2020年版分类<sup>1</sup>。</p>
+
+<h2>2.4 本文的交付物与阅读路线</h2>
+
+<p>基于上述分类框架,本文将在后续章节中依次展开各靶标模块的详细讨论。每个核心章节采用统一的四步叙事结构:靶标生物学基础 → 代表性药剂及作用位点 → 小菜蛾直接证据 → 抗性演化与管理意义。</p>
+
+<p>本文的主要交付物包括:</p>
+
+<p><strong>(1) 一个小菜蛾神经系统药理靶标总图</strong>(图1),整合突触前、突触后和肌肉细胞中的关键靶点及其对应药剂。</p>
+
+<p><strong>(2) 一张靶标-药剂类别-关键抗性位点对照表</strong>(表1及后续各章节详表),为抗性监测和交叉抗性预测提供结构化参考。</p>
+
+<p><strong>(3) 一个按证据强度排序的靶标优先级判断框架</strong>(第6章),基于功能证据、抗性位点、监测适用性和新药潜力四个维度进行系统评估。</p>
+
+<p><strong>(4) 一个面向监测与新靶标发现的路线图</strong>(第7章),提出短期(6-18个月)和中期(2-5年)的研究优先方向和技术路径。</p>
+
+<p>对于希望快速了解特定靶标抗性现状的读者,可直接查阅表1及各章节中的抗性位点汇总表;对于关注新靶标发现的研究者,建议重点阅读第7章关于生物胺受体和方法学路线图的内容;对于从事抗性监测的实践者,第6章的标记优先级评估和检测方法比较将提供直接指导。</p>
+
+<div class="references">
+<h2>参考文献</h2>
+
+<div class="ref-item">1. Sparks TC, Crossthwaite AJ, Nauen R, Banba S, Cordova D, et al. Insecticides, biologics and nematicides: Updates to IRAC's mode of action classification - a tool for resistance management. <em>Pestic Biochem Physiol.</em> 2020;167:104587. DOI: 10.1016/j.pestbp.2020.104587.</div>
+
+<div class="ref-item">2. Sparks TC, Nauen R. IRAC: Mode of action classification and insecticide resistance management. <em>Pestic Biochem Physiol.</em> 2015;121:122-128. DOI: 10.1016/j.pestbp.2014.11.014.</div>
+
+<div class="ref-item">3. Baxter SW, Chen M, Dawson A, Zhao JZ, Vogel H, Shelton AM, Heckel DG, Jiggins CD. Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in <em>Plutella xylostella</em>. <em>PLoS Genet.</em> 2010;6(1):e1000802. DOI: 10.1371/journal.pgen.1000802.</div>
+
+<div class="ref-item">4. Tomizawa M, Casida JE. Neonicotinoid insecticide toxicology: mechanisms of selective action. <em>Annu Rev Pharmacol Toxicol.</em> 2005;45:247-268. DOI: 10.1146/annurev.pharmtox.45.120403.095930.</div>
+
+<div class="ref-item">5. Matsuda K, Buckingham SD, Kleier D, Rauh JJ, Grauso M, Sattelle DB. Neonicotinoids: insecticides acting on insect nicotinic acetylcholine receptors. <em>Trends Pharmacol Sci.</em> 2001;22(11):573-580.</div>
+
+<div class="ref-item">6. Salgado VL, Sparks TC. The spinosyns: chemistry, biochemistry, mode of action, and resistance. In: Gilbert LI, Gill SS, editors. <em>Insect Control: Biological and Synthetic Agents</em>. Academic Press; 2010. p. 207-243.</div>
+
+<div class="ref-item">7. Wang X, Wang R, Yang Y, Wu S, O'Reilly AO, Wu Y. A point mutation in the glutamate-gated chloride channel of <em>Plutella xylostella</em> is associated with resistance to abamectin. <em>Insect Mol Biol.</em> 2016;25(2):116-125. DOI: 10.1111/imb.12204.</div>
+
+<div class="ref-item">8. Nakao T, Banba S. Broflanilide: A meta-diamide insecticide with a novel mode of action. <em>Bioorg Med Chem.</em> 2016;24(3):372-377. DOI: 10.1016/j.bmc.2015.08.008.</div>
+
+<div class="ref-item">9. Dong K, Du Y, Rinkevich F, Nomura Y, Xu P, Wang L, Silver K, Zhorov BS. Molecular biology of insect sodium channels and pyrethroid resistance. <em>Insect Biochem Mol Biol.</em> 2014;50:1-17. DOI: 10.1016/j.ibmb.2014.03.012.</div>
+
+<div class="ref-item">10. Sattelle DB, Cordova D, Cheek TR. Insect ryanodine receptors: molecular targets for novel pest control chemicals. <em>Invert Neurosci.</em> 2008;8(3):107-119. DOI: 10.1007/s10158-008-0076-4.</div>
+
+<div class="ref-item">11. Ma H, Huang Q, Lai X, Liu J, Zhu H, Zhou Y, Deng X, Zhou X. Pharmacological properties of the type 1 tyramine receptor in the diamondback moth, <em>Plutella xylostella</em>. <em>Int J Mol Sci.</em> 2019;20(12):2953. DOI: 10.3390/ijms20122953.</div>
+
+<div class="ref-item">12. Zhu H, Liu Z, Ma H, et al. Pharmacological properties and function of the PxOctbeta3 octopamine receptor in <em>Plutella xylostella</em>. <em>Insects.</em> 2022;13(8):735. DOI: 10.3390/insects13080735.</div>
+
+<div class="ref-item">13. Casida JE, Durkin KA. Neuroactive insecticides: targets, selectivity, resistance, and secondary effects. <em>Annu Rev Entomol.</em> 2013;58:99-117.</div>
+
+<div class="ref-item">14. Troczka B, Zimmer CT, Elias J, et al. Resistance to diamide insecticides in diamondback moth is associated with a mutation in the membrane-spanning domain of the ryanodine receptor. <em>Insect Biochem Mol Biol.</em> 2012;42(11):873-880. DOI: 10.1016/j.ibmb.2012.09.001.</div>
+
+<div class="ref-item">15. Wang J, Wang X, Lansdell SJ, Zhang J, Millar NS, Wu Y. A three amino acid deletion in the transmembrane domain of the nicotinic acetylcholine receptor alpha6 subunit confers high-level resistance to spinosad in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2016;71:29-36. DOI: 10.1016/j.ibmb.2016.02.001.</div>
+
+<div class="ref-item">16. Wang XL, Su W, Zhang JH, Yang YH, Dong K, Wu YD. Two novel sodium channel mutations associated with resistance to indoxacarb and metaflumizone in the diamondback moth, <em>Plutella xylostella</em>. <em>Insect Sci.</em> 2016;23(1):50-58. DOI: 10.1111/1744-7917.12226.</div>
+
+<div class="ref-item">17. Steinbach D, Gutbrod O, Lümmen P, Matthiesen S, Schorn C, Nauen R. Geographic spread, genetics and functional characteristics of ryanodine receptor-based target-site resistance to diamide insecticides in diamondback moth. <em>Insect Biochem Mol Biol.</em> 2015;54:11-20.</div>
+
+<div class="ref-item">18. Verlinden H, Vleugels R, Zels S, Dillen S, Lenaerts C, Crabbé K, Spit J, Vanden Broeck J. Receptors for neuronal or hormonal ligands as targets for the control of insect pests. <em>Adv Insect Physiol.</em> 2014;46:167-303.</div>
+
+<div class="ref-item">19. Lin CL, Yeh SC, Feng HT, Dai SM. Inheritance and stability of mevinphos-resistance in <em>Plutella xylostella</em>, with special reference to mutations of acetylcholinesterase 1. <em>Pestic Biochem Physiol.</em> 2017;141:65-70. DOI: 10.1016/j.pestbp.2016.11.008.</div>
+
+<div class="ref-item">20. Jiang D, Harvey-Samuel T, Senevirathna M, et al. Key role of the ryanodine receptor I4790K mutation in mediating diamide resistance in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2024;168:104107. DOI: 10.1016/j.ibmb.2024.104107.</div>
+
+</div>
+
+</body>
+</html>

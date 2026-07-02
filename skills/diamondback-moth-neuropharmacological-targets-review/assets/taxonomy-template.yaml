@@ -1,0 +1,228 @@
+# Pharma×AI Review Dynamic Taxonomy
+
+# This file defines the controlled vocabulary for categorization.
+# Populated during Gate 0 and refined during writing.
+
+version: "2.4"
+created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+
+# ============================================================================
+# PRIMARY TAXONOMY (Drug R&D Lifecycle)
+# ============================================================================
+lifecycle_taxonomy:
+  target_identification:
+    description: "AI methods for identifying and validating drug targets"
+    subsections:
+      - disease_gene_association
+      - druggability_prediction
+      - target_prioritization
+    typical_methods:
+      - knowledge_graphs
+      - network_analysis
+      - nlp_literature_mining
+      
+  hit_discovery:
+    description: "AI methods for finding initial active compounds"
+    subsections:
+      - virtual_screening
+      - de_novo_design
+      - fragment_based_design
+    typical_methods:
+      - docking_ml_hybrid
+      - generative_models
+      - active_learning
+      
+  lead_optimization:
+    description: "AI methods for optimizing lead compounds"
+    subsections:
+      - property_prediction
+      - multi_objective_optimization
+      - sar_analysis
+    typical_methods:
+      - qsar_models
+      - graph_neural_networks
+      - bayesian_optimization
+      
+  admet_prediction:
+    description: "AI methods for ADMET property prediction"
+    subsections:
+      - absorption
+      - distribution
+      - metabolism
+      - excretion
+      - toxicity
+    typical_methods:
+      - molecular_fingerprints
+      - gnn_models
+      - transformer_models
+      
+  preclinical_safety:
+    description: "AI methods for safety and toxicity assessment"
+    subsections:
+      - organ_toxicity
+      - genotoxicity
+      - cardiotoxicity
+      - off_target_effects
+    typical_methods:
+      - read_across
+      - structural_alerts
+      - mechanistic_models
+      
+  clinical_translation:
+    description: "AI methods for clinical development"
+    subsections:
+      - patient_stratification
+      - biomarker_discovery
+      - trial_optimization
+      - drug_repurposing
+    typical_methods:
+      - survival_analysis
+      - multiomics_integration
+      - causal_inference
+
+# ============================================================================
+# AI TECHNIQUE TAXONOMY
+# ============================================================================
+ai_techniques:
+  representation_learning:
+    molecular_fingerprints:
+      - ecfp
+      - maccs
+      - mordred
+    graph_representations:
+      - adjacency_matrix
+      - edge_features
+      - 3d_coordinates
+    sequence_representations:
+      - smiles
+      - selfies
+      - amino_acid_sequence
+      
+  model_architectures:
+    traditional_ml:
+      - random_forest
+      - svm
+      - gradient_boosting
+    deep_learning:
+      - mlp
+      - cnn_1d
+      - rnn_lstm
+    graph_neural_networks:
+      - gcn
+      - gat
+      - mpnn
+      - schnet
+      - dimenet
+    transformers:
+      - bert_variants
+      - gpt_variants
+      - mol_transformer
+    generative_models:
+      - vae
+      - gan
+      - flow_based
+      - diffusion
+      
+  learning_paradigms:
+    supervised: {}
+    self_supervised:
+      - contrastive
+      - masked_prediction
+    reinforcement:
+      - policy_gradient
+      - q_learning
+    active_learning: {}
+    transfer_learning: {}
+    few_shot: {}
+
+# ============================================================================
+# MOLECULE TYPE TAXONOMY
+# ============================================================================
+molecule_types:
+  small_molecules:
+    organic_drugs: {}
+    natural_products: {}
+    fragments: {}
+    
+  biologics:
+    peptides: {}
+    proteins: {}
+    antibodies: {}
+    
+  nucleic_acids:
+    antisense: {}
+    sirna: {}
+    mrna: {}
+    
+  novel_modalities:
+    protacs: {}
+    molecular_glues: {}
+    cell_therapies: {}
+
+# ============================================================================
+# DISEASE AREA TAXONOMY
+# ============================================================================
+disease_areas:
+  oncology:
+    solid_tumors: {}
+    hematological: {}
+    immuno_oncology: {}
+    
+  neurology:
+    neurodegenerative: {}
+    psychiatric: {}
+    pain: {}
+    
+  infectious:
+    viral: {}
+    bacterial: {}
+    antimicrobial_resistance: {}
+    
+  metabolic:
+    diabetes: {}
+    obesity: {}
+    cardiovascular: {}
+    
+  rare_diseases: {}
+  autoimmune: {}
+
+# ============================================================================
+# WRITING ACTIONS VOCABULARY
+# ============================================================================
+writing_actions:
+  playbook_gates:
+    - context_pain_gap
+    - scope_deliverables
+    - taxonomy_map
+    - section_loop
+    - actionable_roadmap
+    - evidence_binding
+    
+  section_elements:
+    - mechanism_paragraph
+    - representative_methods
+    - failure_modes
+    - pharma_implications
+    
+  pharma_specific:
+    - pharma_workflow_alignment
+    - wet_lab_bridge
+    - benchmarking_strategy
+    - data_provenance_notes
+    
+  evidence_actions:
+    - preprint_tagging
+    - evidence_level_assignment
+    - hedging_language
+    - citation_verification
+
+# ============================================================================
+# CUSTOM TAGS (Project-Specific)
+# ============================================================================
+custom_tags:
+  # Add project-specific tags here during the review
+  # Example:
+  # my_custom_category:
+  #   - tag1
+  #   - tag2

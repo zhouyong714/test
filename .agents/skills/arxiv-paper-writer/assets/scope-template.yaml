@@ -1,0 +1,194 @@
+# Pharma×AI Review Scope Contract
+
+# This file defines the review scope, constraints, and configuration.
+# Edit this file during Gate 0 to establish the review contract.
+
+version: "2.4"
+created: YYYY-MM-DD
+last_updated: YYYY-MM-DD
+
+# ============================================================================
+# REVIEW METADATA
+# ============================================================================
+review:
+  title: ""  # Working title
+  slug: ""   # kebab-case identifier
+  mode: pharma  # standard | pharma
+  target_venue: arXiv
+  target_pages: 8  # Main text, excluding references
+  
+# ============================================================================
+# SCOPE DEFINITION
+# ============================================================================
+scope:
+  # What AI tasks are covered?
+  ai_tasks:
+    included:
+      - molecular_property_prediction
+      - generative_molecular_design
+      - virtual_screening
+      # Add more...
+    excluded:
+      - clinical_nlp  # Example exclusion
+      
+  # What molecules/modalities are covered?
+  molecule_types:
+    included:
+      - small_molecules
+      - peptides
+      # Add more...
+    excluded: []
+    
+  # Which drug R&D lifecycle stages?
+  lifecycle_stages:
+    included:
+      - target_identification
+      - hit_discovery
+      - lead_optimization
+      - admet_prediction
+      # Add more...
+    excluded:
+      - clinical_trials  # If not covered
+      
+  # Evidence level scope
+  evidence_scope:
+    min_level: L3  # Include preliminary evidence
+    max_level: L0  # Up to consensus
+    
+  # Time constraints
+  time_range:
+    start_year: 2020
+    end_year: 2024
+    classic_exceptions: true  # Allow foundational papers before start_year
+
+# ============================================================================
+# PERSONAS AND AUDIENCE
+# ============================================================================
+personas:
+  primary:
+    - computational_chemist
+    - ml_researcher_in_pharma
+  secondary:
+    - medicinal_chemist
+    - drug_discovery_scientist
+    
+  # Minimum coverage requirement
+  coverage_requirement:
+    min_personas: 3  # At least 3 of 5 lifecycle stages should be relevant
+    
+# ============================================================================
+# DELIVERABLES
+# ============================================================================
+deliverables:
+  taxonomy:
+    required: true
+    type: hierarchical  # hierarchical | matrix | hybrid
+    
+  evidence_tables:
+    study_table:
+      required: true
+      min_rows: 20
+    benchmark_table:
+      required: true
+      min_rows: 10
+      
+  visualizations:
+    min_count: 5
+    required_types:
+      - taxonomy_diagram
+      - pipeline_figure
+      - comparison_table
+      
+  roadmap:
+    required: true
+    timeframes:
+      - short_term: "6-18 months"
+      - medium_term: "2-5 years"
+
+# ============================================================================
+# LITERATURE REQUIREMENTS
+# ============================================================================
+literature:
+  total_citations:
+    min: 60
+    max: 80
+    
+  source_distribution:
+    pubmed_min_pct: 30
+    arxiv_max_pct: 40
+    peer_reviewed_min_pct: 50
+    
+  recency:
+    last_3_years_min_pct: 70
+    
+  per_section:
+    min_citations: 8
+
+# ============================================================================
+# PREPRINT POLICY
+# ============================================================================
+preprint_policy:
+  allowed_sources:
+    arxiv:
+      - cs.LG
+      - cs.AI
+      - stat.ML
+      - q-bio.BM
+      - q-bio.QM
+    preprint_servers:
+      - bioRxiv
+      - medRxiv
+      
+  forbidden_sources:
+    - patents_as_evidence
+    - conference_abstracts_only
+    - personal_communications
+    - social_media
+    
+  handling_rules:
+    max_age_months: 12
+    require_preprint_tag: true
+    forbidden_for_claims:
+      - safety
+      - clinical_efficacy
+      - regulatory_compliance
+
+# ============================================================================
+# WRITING PLAYBOOK CONFIGURATION
+# ============================================================================
+writing_playbook:
+  enforce_context_pain_gap: true
+  enforce_scope_deliverables: true
+  enforce_taxonomy_first: true
+  enforce_section_loop: true
+  enforce_actionable_roadmap: true
+  
+  thresholds:
+    min_gap_sentences: 1
+    min_scope_bullets: 3
+    max_scope_bullets: 6
+    taxonomy_position_max_pct: 20
+    
+# ============================================================================
+# QUALITY GATES
+# ============================================================================
+quality_gates:
+  kickoff_approval:
+    required: true
+    checklist:
+      - scope_confirmed
+      - outline_approved
+      - personas_identified
+      
+  playbook_compliance:
+    required: true
+    all_gates_must_pass: true
+    
+  evidence_compliance:
+    required: true
+    safety_claims_l1_only: true
+    
+  compilation:
+    required: true
+    no_overfull_hbox: true
+    no_undefined_citations: true

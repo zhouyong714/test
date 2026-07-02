@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>7. 新兴神经靶标与未来研究路线</title>
+<style>
+  body { font-family: "Times New Roman", serif; font-size: 16px; line-height: 1.8; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #222; }
+  h1 { font-size: 1.5em; margin-top: 2em; }
+  h2 { font-size: 1.2em; margin-top: 1.8em; }
+  h3 { font-size: 1.05em; margin-top: 1.5em; }
+  p { margin: 0.8em 0; text-indent: 2em; }
+  sup { font-size: 0.75em; }
+  .references { margin-top: 3em; border-top: 1px solid #aaa; padding-top: 1em; }
+  .references h2 { font-size: 1.1em; }
+  .ref-item { font-size: 0.92em; margin: 0.5em 0; padding-left: 2em; text-indent: -2em; }
+  table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.93em; }
+  th, td { border: 1px solid #bbb; padding: 6px 10px; text-align: left; vertical-align: top; }
+  th { background: #f0f0f0; }
+  caption { font-style: italic; margin-bottom: 0.5em; text-align: left; }
+</style>
+</head>
+<body>
+
+<h1>7. 新兴神经靶标与未来研究路线</h1>
+
+<p>前述章节所涵盖的靶标——AChE、nAChR、RDL/GluCl、Na<sub>v</sub>和RyR——均已有商业化药剂与之对应，其抗性机制也已积累了相当程度的直接证据。然而，随着上述靶标上的抗性等位基因在全球种群中持续扩散，开发针对全新靶标的下一代杀虫剂已成为抗性管理的战略需求。本章聚焦于小菜蛾神经系统中尚未被商业化利用、但已具备"可药理学操控 + 可功能验证 + 可用于新药设计"三个条件的候选靶标，重点介绍酪胺受体（tyramine receptor，TAR）和章鱼胺受体（octopamine receptor，OAR）两类G蛋白偶联受体（GPCR），并在此基础上提出面向未来靶标发现的方法学路线图。<sup>[G04, G05, G07, G16]</sup></p>
+
+<h2>7.1 酪胺受体与章鱼胺受体作为下一代候选靶标</h2>
+
+<h3>7.1.1 生物胺信号系统的神经生物学背景</h3>
+
+<p>酪胺（tyramine）和章鱼胺（octopamine）是无脊椎动物神经系统中的重要生物胺类神经调质，在昆虫中发挥类似脊椎动物肾上腺素/去甲肾上腺素的功能，参与调控运动、生殖、代谢、学习记忆和应激反应等多种生理过程。<sup>[G04, G05]</sup> 酪胺是章鱼胺的生物合成前体，两者均通过与特异性GPCR结合发挥作用。由于哺乳动物中不存在酪胺受体和章鱼胺受体的直系同源物（哺乳动物的痕量胺相关受体TAAR与昆虫TAR在药理学上存在显著差异），这类受体具有天然的选择性优势，是开发对哺乳动物低毒杀虫剂的理想靶标。<sup>[G07, G15]</sup></p>
+
+<p>昆虫章鱼胺受体按信号偶联方式分为四类：α-肾上腺素能样受体（OctαR）、β-肾上腺素能样受体（OctβR）、酪胺受体1型（TAR1/TyrR）和酪胺受体2型（TAR2）。<sup>[G06]</sup> 甲脒类（formamidines）杀虫剂（如双甲脒amitraz）已被证明通过激动章鱼胺受体发挥杀虫活性，为这类受体作为杀虫剂靶标提供了概念验证。<sup>[G13, G14]</sup></p>
+
+<h3>7.1.2 小菜蛾TAR1的药理学与功能证据</h3>
+
+<p>Ma等（2019）克隆并表征了小菜蛾酪胺受体1型（PxTAR1），通过异源表达系统（HEK293细胞）系统研究了其药理学特性。结果表明，PxTAR1对酪胺具有高亲和力，对章鱼胺的亲和力较低，与已知的TAR1药理学特征一致；多种甲脒类化合物（包括双甲脒）可激动PxTAR1，提示该受体是甲脒类在小菜蛾中的潜在作用靶标之一。<sup>[G01]</sup></p>
+
+<p>Zheng等（2023）利用CRISPR/Cas9技术敲除小菜蛾<em>PxTAR1</em>基因，发现TAR1缺失导致雌虫产卵量显著下降、交配行为异常，并影响性信息素的生物合成。这一表型证明PxTAR1在小菜蛾生殖调控中发挥不可替代的功能，也意味着以TAR1为靶标的干预策略具有影响种群繁殖的潜力，不仅限于直接神经毒性。<sup>[G03]</sup></p>
+
+<h3>7.1.3 小菜蛾PxOctbeta3的药理学与RNAi功能验证</h3>
+
+<p>Zhu等（2022）克隆并表征了小菜蛾β型章鱼胺受体亚型PxOctbeta3，通过异源表达证明其与章鱼胺结合后激活腺苷酸环化酶（adenylate cyclase），升高胞内cAMP水平，符合Octβ受体的经典信号特征。药理学分析表明，双甲脒及其代谢物对PxOctbeta3具有激动活性。RNAi沉默<em>PxOctbeta3</em>后，小菜蛾幼虫对双甲脒的敏感性显著降低，提供了该受体参与甲脒类杀虫活性的功能证据。<sup>[G02]</sup></p>
+
+<p>综合PxTAR1和PxOctbeta3的证据，小菜蛾生物胺受体系统已具备"异源表达药理学表征 + CRISPR/RNAi功能验证 + 与现有药剂（甲脒类）的关联"三个层次的证据，满足将其列为下一代候选靶标的基本条件。与已有田间抗性的靶标（RyR、GluCl等）相比，生物胺受体目前尚无田间抗性记录，这既是其作为新靶标的优势（选择压力尚未积累），也意味着其作为监测标记的当前价值有限。</p>
+
+<h2>7.2 方法学路线图</h2>
+
+<p>将候选靶标从"有功能证据"推进到"可用于新药设计"，需要一套系统性的方法学支撑。基于小菜蛾现有研究基础，本文建议以下五条技术路线并行推进：</p>
+
+<p><strong>异源表达与电生理。</strong> 非洲爪蟾卵母细胞（<em>Xenopus</em> oocyte）双电极电压钳和哺乳动物细胞系（HEK293、CHO）是表征昆虫离子通道和GPCR药理学的标准平台。对于nAChR、GluCl、RDL等离子通道靶标，卵母细胞系统已在小菜蛾研究中广泛应用；<sup>[D03, D04, D05]</sup> 对于TAR1和Octbeta3等GPCR，HEK293细胞结合cAMP/Ca<sup>2+</sup>荧光报告系统是当前主流方案。<sup>[G01, G02]</sup> 建立稳定、可重复的异源表达体系是后续高通量筛选的前提。</p>
+
+<p><strong>CRISPR knockin/knockout。</strong> CRISPR/Cas9技术已在小菜蛾中成功应用于RyR抗性突变的功能验证（I4790M knockin、I4790K knockin）<sup>[F09, F10]</sup> 和TAR1功能研究（knockout）。<sup>[G03]</sup> 将这一技术扩展至其他候选靶标（GluCl突变、RDL亚型、Octbeta3），可系统建立靶标位点突变与抗性表型之间的因果关系，是当前最具说服力的功能验证手段。</p>
+
+<p><strong>受体-配体对接与分子动力学（MD）模拟。</strong> 基于同源建模或冷冻电镜结构的计算化学方法，已被用于解析小菜蛾AChE1抗性替换的结构基础<sup>[C06]</sup> 和Na<sub>v</sub>药剂结合位点。<sup>[E15]</sup> 对于生物胺受体，利用近年来解析的人源GPCR结构作为模板进行同源建模，结合分子对接和MD模拟，可预测候选化合物与受体的结合模式，为先导化合物优化提供结构指导。</p>
+
+<p><strong>单细胞转录组与神经解剖定位。</strong> 靶标在神经系统中的表达模式（哪些神经元类型、哪些脑区）直接影响药剂的选择性和毒性特征。单细胞RNA测序（scRNA-seq）技术的应用，可绘制小菜蛾神经系统中各靶标基因的细胞类型特异性表达图谱，为理解靶标的生理功能和预测药剂的神经毒性特征提供基础。<sup>[G16]</sup></p>
+
+<p><strong>群体监测与高通量分型。</strong> 对于已有功能验证的靶标位点突变，建立基于扩增子测序（amplicon sequencing）或数字PCR的高通量分型平台，可实现对田间种群中抗性等位基因频率的大规模、低成本监测，为抗性管理决策提供实时数据支撑。<sup>[B18, F15]</sup></p>
+
+<h2>7.3 可操作路线图</h2>
+
+<h3>短期（6–18个月）</h3>
+
+<p>优先完成以下三项工作：第一，基于现有文献证据，形成小菜蛾神经靶标标准化分子标记panel（参见第6章），并在中国及全球代表性种群中开展关键等位基因（RyR G4946E/I4790M/I4790K、GluCl A309V/V263I、alpha6错误剪接、Na<sub>v</sub> F1845Y/V1848I）的基线频率调查，建立可供比较的参考数据集。<sup>[B18, C01, D03, D06, E01, F02]</sup> 第二，对PxTAR1和PxOctbeta3建立稳定的异源表达与药理筛选体系，完成对现有甲脒类及相关化合物库的初步筛选，确定先导化合物结构类型。<sup>[G01, G02]</sup> 第三，补充GluCl外显子9剪接变体和RDL亚型差异的田间频率数据，完善二级监测标记的基线。</p>
+
+<h3>中期（2–5年）</h3>
+
+<p>在短期工作基础上，推进以下三个方向：第一，将结构生物学（冷冻电镜或同源建模）与田间抗性预测连接起来——对RyR、GluCl等已有多个抗性突变的靶标，解析突变体与药剂复合物的结构，预测哪些新化合物能够克服现有抗性突变，指导下一代化学先导的设计。<sup>[F01, F05]</sup> 第二，针对TAR1/Octbeta3等GPCR变构位点或其他新兴靶标，设计具有昆虫选择性的小分子先导化合物，推进至细胞水平和整体动物水平的活性验证。<sup>[G07, G16]</sup> 第三，建立"小菜蛾神经靶标图谱 + 抗性位点数据库 + 抗性管理推荐"的一体化开放平台，整合全球监测数据，为IRM（insecticide resistance management）决策提供数据支撑。<sup>[A01, A02, B19]</sup></p>
+
+<!-- Table -->
+<table>
+  <caption>Table 5. 小菜蛾新兴神经靶标证据概览与研究优先级</caption>
+  <thead>
+    <tr>
+      <th>靶标</th>
+      <th>基因</th>
+      <th>已有证据</th>
+      <th>田间抗性</th>
+      <th>选择性优势</th>
+      <th>研究优先级</th>
+      <th>文献</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>酪胺受体1型（TAR1）</td>
+      <td><em>PxTAR1</em></td>
+      <td>异源表达药理学；CRISPR knockout生殖表型</td>
+      <td>无</td>
+      <td>无脊椎动物特异性</td>
+      <td>高</td>
+      <td>[G01, G03]</td>
+    </tr>
+    <tr>
+      <td>β型章鱼胺受体（Octbeta3）</td>
+      <td><em>PxOctbeta3</em></td>
+      <td>异源表达药理学；RNAi功能验证</td>
+      <td>无</td>
+      <td>无脊椎动物特异性</td>
+      <td>高</td>
+      <td>[G02]</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="references">
+<h2>参考文献</h2>
+
+<p class="ref-item">[A01] Sparks TC, Crossthwaite AJ, Nauen R, et al. Insecticides, biologics and nematicides: Updates to IRAC's mode of action classification. <em>Pestic Biochem Physiol.</em> 2020;167:104587. DOI: 10.1016/j.pestbp.2020.104587.</p>
+<p class="ref-item">[A02] Sparks TC, Nauen R. IRAC: Mode of action classification and insecticide resistance management. <em>Pestic Biochem Physiol.</em> 2015;121:122–128. DOI: 10.1016/j.pestbp.2014.11.014.</p>
+<p class="ref-item">[B18] Steinbach D, Gutbrod O, Lümmen P, Matthiesen S, Schorn C, Nauen R. Geographic spread, genetics and functional characteristics of ryanodine receptor-based target-site resistance to diamide insecticides in diamondback moth.</p>
+<p class="ref-item">[B19] Mota-Sanchez D, Wise JC. Arthropod Pesticide Resistance Database.</p>
+<p class="ref-item">[C01] Baxter SW, Chen M, Dawson A, et al. Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in <em>Plutella xylostella</em>. <em>PLoS Genet.</em> 2010;6(1):e1000802. DOI: 10.1371/journal.pgen.1000802.</p>
+<p class="ref-item">[C06] Zolfaghari M, Xiao Y, Azam FMS, et al. Resistance mechanism of <em>Plutella xylostella</em> associated with amino acid substitutions in acetylcholinesterase-1. <em>Insects.</em> 2024;15(3):144. DOI: 10.3390/insects15030144.</p>
+<p class="ref-item">[D03] Wang X, Wang R, Yang Y, et al. A point mutation in the glutamate-gated chloride channel of <em>Plutella xylostella</em> is associated with resistance to abamectin. <em>Insect Mol Biol.</em> 2016;25(2):116–125. DOI: 10.1111/imb.12204.</p>
+<p class="ref-item">[D04] Wang X, Wang R, Yang Y, et al. Mutations on M3 helix of <em>Plutella xylostella</em> glutamate-gated chloride channel confer unequal resistance to abamectin by two different mechanisms. <em>Insect Biochem Mol Biol.</em> 2017;86:50–57. DOI: 10.1016/j.ibmb.2017.05.006.</p>
+<p class="ref-item">[D05] Wang X, Wang R, Chen J, et al. Function and pharmacology of glutamate-gated chloride channel exon 9 splice variants from the diamondback moth <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2019;104:58–64. DOI: 10.1016/j.ibmb.2018.12.005.</p>
+<p class="ref-item">[D06] Liu Z, Wang K, Zhang Y, et al. A novel V263I mutation in the glutamate-gated chloride channel of <em>Plutella xylostella</em> confers a high level of resistance to abamectin. <em>Int J Biol Macromol.</em> 2023;230:123389. DOI: 10.1016/j.ijbiomac.2023.123389.</p>
+<p class="ref-item">[E01] Wang XL, Su W, Zhang JH, et al. Two novel sodium channel mutations associated with resistance to indoxacarb and metaflumizone in the diamondback moth. <em>Insect Sci.</em> 2016;23(1):50–58. DOI: 10.1111/1744-7917.12226.</p>
+<p class="ref-item">[E15] O'Reilly AO, Khambay BPS, Williamson MS, et al. Modelling insecticide-binding sites in the voltage-gated sodium channel.</p>
+<p class="ref-item">[F01] Sattelle DB, Cordova D, Cheek TR. Insect ryanodine receptors: molecular targets for novel pest control chemicals. <em>Invert Neurosci.</em> 2008;8(3):107–119. DOI: 10.1007/s10158-008-0076-4.</p>
+<p class="ref-item">[F02] Troczka B, Zimmer CT, Elias J, et al. Resistance to diamide insecticides in diamondback moth is associated with a mutation in the membrane-spanning domain of the ryanodine receptor. <em>Insect Biochem Mol Biol.</em> 2012;42(11):873–880. DOI: 10.1016/j.ibmb.2012.09.001.</p>
+<p class="ref-item">[F05] Lahm GP, Cordova D, Barry JD. New and selective ryanodine receptor activators for insect control.</p>
+<p class="ref-item">[F09] Wang X, Chen J, Ma Y, et al. CRISPR/Cas9 mediated ryanodine receptor I4790M knockin confers unequal resistance to diamides in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2020;125:103453. DOI: 10.1016/j.ibmb.2020.103453.</p>
+<p class="ref-item">[F10] Jiang D, Harvey-Samuel T, Senevirathna M, et al. Key role of the ryanodine receptor I4790K mutation in mediating diamide resistance in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2024;168:104107. DOI: 10.1016/j.ibmb.2024.104107.</p>
+<p class="ref-item">[F15] Steinbach D, Gutbrod O, Lüemmen P, Matthiesen S, Schorn C, Nauen R. Geographic spread of diamide resistance in diamondback moth and its association with ryanodine receptor mutations.</p>
+<p class="ref-item">[G01] Ma H, Huang Q, Lai X, et al. Pharmacological properties of the type 1 tyramine receptor in the diamondback moth, <em>Plutella xylostella</em>. <em>Int J Mol Sci.</em> 2019;20(12):2953. DOI: 10.3390/ijms20122953.</p>
+<p class="ref-item">[G02] Zhu H, Liu Z, Ma H, et al. Pharmacological properties and function of the PxOctbeta3 octopamine receptor in <em>Plutella xylostella</em>. <em>Insects.</em> 2022;13(8):735. DOI: 10.3390/insects13080735.</p>
+<p class="ref-item">[G03] Zheng W, Ma H, Liu Z, et al. Knockout of tyramine receptor 1 results in a decrease of oviposition, mating, and sex pheromone biosynthesis in female <em>Plutella xylostella</em>. <em>Pest Manag Sci.</em> 2023;79(10):3903–3912. DOI: 10.1002/ps.7571.</p>
+<p class="ref-item">[G04] Roeder T. Octopamine in invertebrates. <em>Prog Neurobiol.</em> 1999.</p>
+<p class="ref-item">[G05] Roeder T. Tyramine and octopamine: ruling behavior and metabolism. <em>Annu Rev Entomol.</em> 2005.</p>
+<p class="ref-item">[G06] Evans PD, Maqueira B. Insect octopamine receptors: a new classification scheme based on studies of cloned receptors.</p>
+<p class="ref-item">[G07] Ohta H, Ozoe Y. Molecular signalling, pharmacology, and physiology of octopamine and tyramine receptors as potential insect pest-control targets.</p>
+<p class="ref-item">[G13] Hollingworth RM, Lund AE. Biological and neurotoxic actions of formamidine pesticides.</p>
+<p class="ref-item">[G14] Kita T, Hayashi T, Ohtani T, et al. Amitraz and chlordimeform actions on insect octopamine/tyramine receptors.</p>
+<p class="ref-item">[G15] Blenau W, Baumann A. Molecular and pharmacological properties of insect biogenic amine receptors.</p>
+<p class="ref-item">[G16] Verlinden H, Vleugels R, Zels S, et al. Receptors for neuronal or hormonal ligands as targets for the control of insect pests.</p>
+
+</div>
+</body>
+</html>

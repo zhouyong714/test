@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<title>6. 抗性演化、监测指标与靶标优先级重估</title>
+<style>
+  body { font-family: "Times New Roman", serif; font-size: 16px; line-height: 1.8; max-width: 900px; margin: 40px auto; padding: 0 20px; color: #222; }
+  h1 { font-size: 1.5em; margin-top: 2em; }
+  h2 { font-size: 1.2em; margin-top: 1.8em; }
+  h3 { font-size: 1.05em; margin-top: 1.5em; }
+  p { margin: 0.8em 0; text-indent: 2em; }
+  sup { font-size: 0.75em; }
+  .references { margin-top: 3em; border-top: 1px solid #aaa; padding-top: 1em; }
+  .references h2 { font-size: 1.1em; }
+  .ref-item { font-size: 0.92em; margin: 0.5em 0; padding-left: 2em; text-indent: -2em; }
+  table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.93em; }
+  th, td { border: 1px solid #bbb; padding: 6px 10px; text-align: left; vertical-align: top; }
+  th { background: #f0f0f0; }
+  caption { font-style: italic; margin-bottom: 0.5em; text-align: left; }
+</style>
+</head>
+<body>
+
+<h1>6. 抗性演化、监测指标与靶标优先级重估</h1>
+
+<p>前述各章节分别从靶标生物学、代表性药剂和小菜蛾直接证据三个维度，系统梳理了胆碱能通路（AChE/nAChR）、抑制性氯离子通路（RDL/GluCl）和膜兴奋性/胞内钙释放通路（Na<sub>v</sub>/RyR）的靶标位点抗性机制。本章的任务是将上述分散的靶标位点证据整合为一个统一的监测框架，并在此基础上对各靶标的监测优先级和管理意义进行重估。核心论点有三：第一，靶标位点突变的解释力是有限的，非靶标机制（代谢、转运、共生菌）在多数田间抗性种群中同样不可忽视；第二，不同靶标的分子标记在检测可行性、田间频率动态和交叉抗性预测能力上存在显著差异，应按证据等级分级纳入监测panel；第三，靶标优先级的判断不应仅基于当前抗性现状，还需考虑新药开发空间和未来选择压力。<sup>[A01, A02, B09, B18]</sup></p>
+
+<h2>6.1 建议整合的分子标记panel</h2>
+
+<p>基于前述各章节的证据综合，本文建议将以下六个基因座的分子变异纳入小菜蛾神经靶标标准化监测panel：</p>
+
+<p><strong><em>Pxace1</em>替换。</strong> AChE1活性中心周边的氨基酸替换是有机磷/氨基甲酸酯类靶标位点抗性的经典标记。Lin等（2017）证明相关替换在台湾种群中具有遗传稳定性，<sup>[C05]</sup> Zolfaghari等（2024）的结构建模进一步解析了不同替换对结合能的影响。<sup>[C06]</sup> 该标记的监测价值主要体现在有机磷类仍在使用的地区，检测方法（等位基因特异性PCR）相对成熟。</p>
+
+<p><strong><em>Pxalpha6</em>错误剪接/终止密码子/TM4缺失。</strong> 这是多杀菌素靶标位点抗性的核心标记，因果证据最强。<sup>[C01, C02, C03]</sup> 错误剪接和截短转录本的检测需要RT-PCR，TM4缺失可通过基因组PCR检测，两种方法均已在文献中有详细描述。该标记在多杀菌素使用压力较大的地区（东南亚、中国南方）具有最高的监测优先级。</p>
+
+<p><strong><em>PxRdl</em>亚型差异。</strong> 小菜蛾双RDL亚型（PxRDL1/PxRDL2）的功能分化使经典A2'位点突变的监测需要区分亚型来源。<sup>[D01, D02]</sup> 间位酰胺类的推广使RDL靶标位点监测的实践价值上升，建议在新型GABA化学使用地区同步开展亚型特异性检测。</p>
+
+<p><strong><em>PxGluCl</em> A309V / G315E / 外显子9变体 / V263I。</strong> 这四个分子变异共同构成阿维菌素类靶标位点抗性的分子图谱，均有功能验证。<sup>[D03, D04, D05, D06]</sup> 建议优先监测A309V和V263I（点突变，检测简便），外显子9剪接变体作为补充指标。</p>
+
+<p><strong><em>PxNa<sub>v</sub></em> F1845Y / V1848I。</strong> 这两个突变是小菜蛾SCBI靶标位点抗性的特异性标记，<sup>[E01]</sup> 在茚虫威和氰氟虫腙使用压力较大的地区具有监测价值。kdr类突变（拟除虫菊酯类相关）可作为补充指标，但其与代谢抗性的相对贡献需结合表型数据综合判断。</p>
+
+<p><strong><em>PxRyR</em> G4946E / I4790M / I4790K。</strong> 这三个突变是双酰胺类靶标位点抗性的核心标记，均有CRISPR功能验证或稳定表达系统支持，<sup>[F02, F09, F10, F12, F13]</sup> 且已在全球多个地区的田间种群中检出。<sup>[F15, B18]</sup> 建议将G4946E作为一级监测标记，I4790M和I4790K作为二级标记，三者联合检测可覆盖当前已知的主要抗性等位基因。</p>
+
+<h2>6.2 为什么必须写"非靶标机制"作为对照</h2>
+
+<p>如果综述只罗列靶标位点突变，将系统性高估靶标位点机制对田间抗性的解释力。在小菜蛾的多个药剂体系中，非靶标机制均有明确证据：</p>
+
+<p>在双酰胺类体系中，Mallott等（2019）发现黄素依赖性单加氧酶（FMO）可对氯虫苯甲酰胺进行氧化代谢，在部分抗性种群中，代谢机制与RyR靶标位点突变共存，两者协同决定抗性水平。<sup>[F11]</sup> 在阿维菌素类体系中，P450介导的代谢抗性在低至中等抗性种群中往往占主导，靶标位点突变（A309V等）在高抗性种群中才显现出较高频率。<sup>[D07]</sup> 在拟除虫菊酯类体系中，P450过表达与kdr突变的共存已有充分记录，单纯依赖kdr检测会低估代谢机制的贡献。<sup>[E03]</sup></p>
+
+<p>此外，近年来有研究提示昆虫共生菌（如沃尔巴克氏体Wolbachia及肠道微生物）可能通过影响药剂代谢或免疫状态间接参与抗性，但在小菜蛾中的直接证据尚不充分，有待进一步研究。</p>
+
+<p>上述证据共同表明，靶标位点监测panel应与代谢抗性标记（相关P450/FMO基因的表达水平或功能突变）联合使用，才能对田间抗性机制作出全面评估。</p>
+
+<h2>6.3 推荐的监测优先级</h2>
+
+<p>综合靶标位点证据等级、检测可行性、田间频率动态和交叉抗性预测能力，本文建议将小菜蛾神经靶标分子标记按以下三级优先级组织：</p>
+
+<p><strong>一级（优先纳入常规监测）：</strong> RyR（G4946E、I4790M、I4790K）、GluCl（A309V、V263I）、nAChR α6（错误剪接/TM4缺失）、Na<sub>v</sub>（F1845Y、V1848I）。这四个靶标的分子标记均有功能验证，检测方法成熟，且与当前主流药剂类别（双酰胺类、阿维菌素类、多杀菌素类、SCBI）直接对应。<sup>[C01, C03, D03, D06, E01, F02, F09, F10]</sup></p>
+
+<p><strong>二级（在特定地区或药剂压力下纳入）：</strong> AChE1替换（有机磷类使用地区）、RDL亚型差异（间位酰胺类使用地区）、GluCl外显子9剪接变体（阿维菌素高抗性种群）。这些标记的监测价值具有地区特异性，建议根据当地用药历史和抗性表型数据决定是否纳入。<sup>[C05, D01, D02, D05]</sup></p>
+
+<p><strong>三级（研究性监测，暂不推荐常规应用）：</strong> 新兴GPCR候选靶标（TAR1、Octbeta3）相关变异。目前尚无田间抗性证据，但随着生物胺类药剂的潜在开发，建立基线数据具有前瞻性价值。<sup>[G01, G02, G03]</sup></p>
+
+<h2>6.4 靶标优先级评分框架</h2>
+
+<p>为使靶标优先级判断更具可操作性，本文建议以五个问题组织评分：（1）是否有小菜蛾直接功能证据？（2）是否已发现稳定的靶标位点突变或异常剪接？（3）是否能解释跨药剂类别表型（交叉抗性）？（4）是否适合作为分子监测标记（检测简便、频率可追踪）？（5）是否仍具备新药研发空间？<sup>[A02, B09]</sup></p>
+
+<p>按此框架，RyR和GluCl在五个维度上均得分较高，是当前监测和管理的核心靶标；nAChR α6在前四个维度得分高，但新药开发空间相对有限；Na<sub>v</sub>在维度（1）（2）（4）得分中等，在维度（3）（5）上仍有潜力；AChE1和RDL亚型在维度（1）（2）得分中等，整体优先级低于前三者；新兴GPCR靶标在维度（5）得分最高，但前四个维度的证据尚不充分。</p>
+
+<!-- Table -->
+<table>
+  <caption>Table 4. 小菜蛾神经靶标优先级评分与管理含义</caption>
+  <thead>
+    <tr>
+      <th>靶标</th>
+      <th>直接功能证据</th>
+      <th>稳定靶标位点变异</th>
+      <th>交叉抗性解释力</th>
+      <th>监测可行性</th>
+      <th>新药开发空间</th>
+      <th>综合优先级</th>
+      <th>代表文献</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RyR</td>
+      <td>高</td>
+      <td>高（G4946E, I4790M, I4790K）</td>
+      <td>中（双酰胺类内部）</td>
+      <td>高</td>
+      <td>中（结构生物学驱动）</td>
+      <td><strong>一级</strong></td>
+      <td>[F02, F09, F10, F12, F13]</td>
+    </tr>
+    <tr>
+      <td>GluCl</td>
+      <td>高</td>
+      <td>高（A309V, G315E, V263I, 外显子9）</td>
+      <td>中（阿维菌素类内部）</td>
+      <td>高</td>
+      <td>中</td>
+      <td><strong>一级</strong></td>
+      <td>[D03, D04, D05, D06]</td>
+    </tr>
+    <tr>
+      <td>nAChR α6</td>
+      <td>高</td>
+      <td>高（错误剪接, TM4缺失）</td>
+      <td>低（多杀菌素特异）</td>
+      <td>高</td>
+      <td>低</td>
+      <td><strong>一级</strong></td>
+      <td>[C01, C02, C03]</td>
+    </tr>
+    <tr>
+      <td>Na<sub>v</sub></td>
+      <td>中</td>
+      <td>中（F1845Y, V1848I, kdr）</td>
+      <td>中（拟除虫菊酯/SCBI）</td>
+      <td>高</td>
+      <td>中</td>
+      <td><strong>一级</strong></td>
+      <td>[E01, E11, E14]</td>
+    </tr>
+    <tr>
+      <td>AChE1</td>
+      <td>中</td>
+      <td>中（ace1替换）</td>
+      <td>低</td>
+      <td>高</td>
+      <td>低</td>
+      <td><strong>二级</strong></td>
+      <td>[C05, C06]</td>
+    </tr>
+    <tr>
+      <td>RDL亚型</td>
+      <td>中</td>
+      <td>中（A2'位点）</td>
+      <td>中（fipronil/间位酰胺）</td>
+      <td>中</td>
+      <td>中（新位点化学）</td>
+      <td><strong>二级</strong></td>
+      <td>[D01, D02, D21]</td>
+    </tr>
+    <tr>
+      <td>TAR1 / Octbeta3</td>
+      <td>低（无田间抗性）</td>
+      <td>低</td>
+      <td>未知</td>
+      <td>低</td>
+      <td>高</td>
+      <td><strong>三级</strong></td>
+      <td>[G01, G02, G03]</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="references">
+<h2>参考文献</h2>
+
+<p class="ref-item">[A01] Sparks TC, Crossthwaite AJ, Nauen R, et al. Insecticides, biologics and nematicides: Updates to IRAC's mode of action classification. <em>Pestic Biochem Physiol.</em> 2020;167:104587. DOI: 10.1016/j.pestbp.2020.104587.</p>
+<p class="ref-item">[A02] Sparks TC, Nauen R. IRAC: Mode of action classification and insecticide resistance management. <em>Pestic Biochem Physiol.</em> 2015;121:122–128. DOI: 10.1016/j.pestbp.2014.11.014.</p>
+<p class="ref-item">[B09] Sayyed AH, Wright DJ. Genetics and evidence for field-evolved resistance to insecticides in diamondback moth.</p>
+<p class="ref-item">[B18] Steinbach D, Gutbrod O, Lümmen P, Matthiesen S, Schorn C, Nauen R. Geographic spread, genetics and functional characteristics of ryanodine receptor-based target-site resistance to diamide insecticides in diamondback moth.</p>
+<p class="ref-item">[C01] Baxter SW, Chen M, Dawson A, et al. Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in <em>Plutella xylostella</em>. <em>PLoS Genet.</em> 2010;6(1):e1000802. DOI: 10.1371/journal.pgen.1000802.</p>
+<p class="ref-item">[C02] Rinkevich FD, Chen M, Shelton AM, Scott JG. Transcripts of the nicotinic acetylcholine receptor subunit gene <em>Pxylalpha6</em> with premature stop codons in the spinosad resistant diamondback moth. <em>Invert Neurosci.</em> 2010;10(1):25–33. DOI: 10.1007/s10158-010-0102-1.</p>
+<p class="ref-item">[C03] Wang J, Wang X, Lansdell SJ, et al. A three amino acid deletion in the transmembrane domain of the nicotinic acetylcholine receptor alpha6 subunit confers high-level resistance to spinosad in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2016;71:29–36. DOI: 10.1016/j.ibmb.2016.02.001.</p>
+<p class="ref-item">[C05] Lin CL, Yeh SC, Feng HT, Dai SM. Inheritance and stability of mevinphos-resistance in <em>Plutella xylostella</em>, with special reference to mutations of acetylcholinesterase 1. <em>Pestic Biochem Physiol.</em> 2017;141:65–70. DOI: 10.1016/j.pestbp.2016.11.008.</p>
+<p class="ref-item">[C06] Zolfaghari M, Xiao Y, Azam FMS, et al. Resistance mechanism of <em>Plutella xylostella</em> associated with amino acid substitutions in acetylcholinesterase-1. <em>Insects.</em> 2024;15(3):144. DOI: 10.3390/insects15030144.</p>
+<p class="ref-item">[D01] Yuan G, Gao W, Yang Y, Wu Y. Molecular cloning, genomic structure, and genetic mapping of two Rdl-orthologous genes of GABA receptors in the diamondback moth. <em>Arch Insect Biochem Physiol.</em> 2010;74(2):81–90. DOI: 10.1002/arch.20361.</p>
+<p class="ref-item">[D02] Li BJ, Wang KK, Chen DP, et al. Distinct roles of two RDL GABA receptors in fipronil action in the diamondback moth. <em>Insect Sci.</em> 2021;28(6):1721–1733. DOI: 10.1111/1744-7917.12892.</p>
+<p class="ref-item">[D03] Wang X, Wang R, Yang Y, et al. A point mutation in the glutamate-gated chloride channel of <em>Plutella xylostella</em> is associated with resistance to abamectin. <em>Insect Mol Biol.</em> 2016;25(2):116–125. DOI: 10.1111/imb.12204.</p>
+<p class="ref-item">[D04] Wang X, Wang R, Yang Y, et al. Mutations on M3 helix of <em>Plutella xylostella</em> glutamate-gated chloride channel confer unequal resistance to abamectin by two different mechanisms. <em>Insect Biochem Mol Biol.</em> 2017;86:50–57. DOI: 10.1016/j.ibmb.2017.05.006.</p>
+<p class="ref-item">[D05] Wang X, Wang R, Chen J, et al. Function and pharmacology of glutamate-gated chloride channel exon 9 splice variants from the diamondback moth <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2019;104:58–64. DOI: 10.1016/j.ibmb.2018.12.005.</p>
+<p class="ref-item">[D06] Liu Z, Wang K, Zhang Y, et al. A novel V263I mutation in the glutamate-gated chloride channel of <em>Plutella xylostella</em> confers a high level of resistance to abamectin. <em>Int J Biol Macromol.</em> 2023;230:123389. DOI: 10.1016/j.ijbiomac.2023.123389.</p>
+<p class="ref-item">[D07] Clark JM, Scott JG, Campos F, Bloomquist JR. Resistance to avermectins: extent, mechanisms, and management implications.</p>
+<p class="ref-item">[D21] Nakao T, Kawase A, Kinoshita A, et al. The A2' mutation in RDL GABA receptor confers resistance to meta-diamide and isoxazoline insecticides.</p>
+<p class="ref-item">[E01] Wang XL, Su W, Zhang JH, et al. Two novel sodium channel mutations associated with resistance to indoxacarb and metaflumizone in the diamondback moth. <em>Insect Sci.</em> 2016;23(1):50–58. DOI: 10.1111/1744-7917.12226.</p>
+<p class="ref-item">[E03] Schuler TH, Martinez-Torres D, Thompson AJ, et al. Toxicological, electrophysiological, and molecular characterisation of knockdown resistance in diamondback moth.</p>
+<p class="ref-item">[E11] Rinkevich FD, Du Y, Dong K. Diversity and convergence of sodium channel mutations involved in resistance to pyrethroids.</p>
+<p class="ref-item">[E14] Dong K, Du Y, Rinkevich F, et al. Molecular biology of insect sodium channels and pyrethroid resistance. <em>Insect Biochem Mol Biol.</em> 2014;50:1–17. DOI: 10.1016/j.ibmb.2014.03.012.</p>
+<p class="ref-item">[F02] Troczka B, Zimmer CT, Elias J, et al. Resistance to diamide insecticides in diamondback moth is associated with a mutation in the membrane-spanning domain of the ryanodine receptor. <em>Insect Biochem Mol Biol.</em> 2012;42(11):873–880. DOI: 10.1016/j.ibmb.2012.09.001.</p>
+<p class="ref-item">[F09] Wang X, Chen J, Ma Y, et al. CRISPR/Cas9 mediated ryanodine receptor I4790M knockin confers unequal resistance to diamides in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2020;125:103453. DOI: 10.1016/j.ibmb.2020.103453.</p>
+<p class="ref-item">[F10] Jiang D, Harvey-Samuel T, Senevirathna M, et al. Key role of the ryanodine receptor I4790K mutation in mediating diamide resistance in <em>Plutella xylostella</em>. <em>Insect Biochem Mol Biol.</em> 2024;168:104107. DOI: 10.1016/j.ibmb.2024.104107.</p>
+<p class="ref-item">[F11] Mallott M, Hamm S, Troczka BJ, et al. A flavin-dependent monooxygenase confers resistance to chlorantraniliprole in the diamondback moth. <em>Insect Biochem Mol Biol.</em> 2019;115:103247. DOI: 10.1016/j.ibmb.2019.103247.</p>
+<p class="ref-item">[F12] Troczka BJ, Williams AJ, Williamson MS, et al. Stable expression and functional characterisation of the diamondback moth ryanodine receptor G4946E variant conferring resistance to diamide insecticides. <em>Sci Rep.</em> 2015;5:14680. DOI: 10.1038/srep14680.</p>
+<p class="ref-item">[F13] Jouraku A, Kuwazaki S, Miyamoto K, et al. Ryanodine receptor mutations G4946E and I4790K differentially responsible for diamide insecticide resistance in diamondback moth. <em>Insect Biochem Mol Biol.</em> 2020;118:103308. DOI: 10.1016/j.ibmb.2019.103308.</p>
+<p class="ref-item">[F15] Steinbach D, Gutbrod O, Lüemmen P, Matthiesen S, Schorn C, Nauen R. Geographic spread of diamide resistance in diamondback moth and its association with ryanodine receptor mutations.</p>
+<p class="ref-item">[G01] Ma H, Huang Q, Lai X, et al. Pharmacological properties of the type 1 tyramine receptor in the diamondback moth, <em>Plutella xylostella</em>. <em>Int J Mol Sci.</em> 2019;20(12):2953. DOI: 10.3390/ijms20122953.</p>
+<p class="ref-item">[G02] Zhu H, Liu Z, Ma H, et al. Pharmacological properties and function of the PxOctbeta3 octopamine receptor in <em>Plutella xylostella</em>. <em>Insects.</em> 2022;13(8):735. DOI: 10.3390/insects13080735.</p>
+<p class="ref-item">[G03] Zheng W, Ma H, Liu Z, et al. Knockout of tyramine receptor 1 results in a decrease of oviposition, mating, and sex pheromone biosynthesis in female <em>Plutella xylostella</em>. <em>Pest Manag Sci.</em> 2023;79(10):3903–3912. DOI: 10.1002/ps.7571.</p>
+
+</div>
+</body>
+</html>

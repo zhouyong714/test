@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "generated_at": "",
+    "paper_dir": "",
+    "search_log": "notes/search-log.md"
+  },
+  "counts": {
+    "identification": {
+      "databases": {
+        "arxiv": 0,
+        "pubmed": 0,
+        "europe_pmc": 0,
+        "semantic_scholar": 0,
+        "google_scholar": 0,
+        "crossref": 0,
+        "other": 0
+      },
+      "registers": 0,
+      "other_sources": 0,
+      "total_records": 0,
+      "duplicates_removed": 0,
+      "records_after_dedup": 0
+    },
+    "screening": {
+      "title_abstract": {
+        "screened": 0,
+        "excluded": 0,
+        "reasons": {
+          "out_of_scope": 0,
+          "wrong_study_type": 0,
+          "not_ai_ml": 0,
+          "not_pharma_relevant": 0,
+          "language": 0,
+          "other": 0
+        }
+      },
+      "full_text": {
+        "sought": 0,
+        "not_retrieved": 0,
+        "assessed": 0,
+        "excluded": 0,
+        "reasons": {
+          "insufficient_methods": 0,
+          "no_quantitative_results": 0,
+          "duplicate_publication": 0,
+          "superseded_version": 0,
+          "other": 0
+        }
+      }
+    },
+    "included": {
+      "studies_in_review": 0,
+      "by_evidence_level": {
+        "L0": 0,
+        "L1": 0,
+        "L2": 0,
+        "L3": 0
+      },
+      "by_study_type": {
+        "in_silico": 0,
+        "retrospective": 0,
+        "prospective": 0,
+        "hybrid": 0
+      },
+      "preprints": {
+        "total": 0,
+        "upgraded_to_published": 0,
+        "still_preprint": 0
+      }
+    }
+  },
+  "flow_diagram": {
+    "identification_box": "Records from databases (n=0) + Registers (n=0)",
+    "dedup_box": "Duplicates removed (n=0)",
+    "screening_box": "Records screened (n=0)",
+    "screening_excluded_box": "Records excluded (n=0)",
+    "full_text_box": "Full-text assessed (n=0)",
+    "full_text_excluded_box": "Full-text excluded (n=0)",
+    "included_box": "Studies included (n=0)"
+  },
+  "validation": {
+    "total_matches_sum": true,
+    "included_matches_study_table": true,
+    "last_validated_at": ""
+  }
+}
